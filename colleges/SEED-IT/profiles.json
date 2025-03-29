@@ -1,0 +1,42 @@
+[
+    {
+        "email": "seed",
+        "name": "TEMP_USER",
+        "role": "Student",
+        "department": "CSBS",
+        "year": "2K24",
+        "rollNumber": "23CB001",
+        "hackerrankId": "abinayak0620",
+        "hackerrankMail": "abinayak0620@gmail.com"
+    },
+    {
+        "email": "pravindzlr@gmail.com",
+        "name": "Pravin Kumar M",
+        "role": "Technical Manager",
+        "department": "SEED",
+        "year": "2K24",
+        "rollNumber": "007",
+        "hackerrankId": "pravindzlr",
+        "hackerrankMail": "pravindzlr@gmail.com"
+    },
+    {
+        "email": "ashokmarquez@gmail.com",
+        "name": "ASHOK SELVA KUMAR E",
+        "role": "DIRECTOR",
+        "department": "MANAGEMENT",
+        "year": "2K24",
+        "rollNumber": "241201001",
+        "hackerrankId": "ashokmarquez",
+        "hackerrankMail": "ashokmarquez@gmail.com"
+    },
+    {
+        "email": "siswarya31@gmail.com",
+        "name": "AISWARYA S",
+        "role": "bUSINESS lEAD",
+        "department": "MANAGEMENT",
+        "year": "2K24",
+        "rollNumber": "241201002",
+        "hackerrankId": "siswarya31@gmail.com",
+        "hackerrankMail": "siswarya31@gmail.com"
+    }
+]

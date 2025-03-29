@@ -1,0 +1,34 @@
+[
+    {
+        "email": "TEST",
+        "course": true,
+        "assessment1": false,
+        "assessment2": false,
+        "assessment3": false,
+        "finalAssessment": false,
+        "accenture": false,
+        "cts": false,
+        "capgemini": false,
+        "infosys": false,
+        "tcs": false,
+        "wipro": false,
+        "zoho": false,
+        "realtime": false
+    },
+    {
+        "email": "TEST",
+        "course": true,
+        "assessment1": false,
+        "assessment2": false,
+        "assessment3": false,
+        "finalAssessment": false,
+        "accenture": false,
+        "cts": false,
+        "capgemini": false,
+        "infosys": false,
+        "tcs": false,
+        "wipro": false,
+        "zoho": false,
+        "realtime": false
+    }
+]

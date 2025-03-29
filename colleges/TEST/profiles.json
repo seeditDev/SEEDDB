@@ -1,0 +1,22 @@
+[
+    {
+        "email": "TEST",
+        "name": "TEST",
+        "role": "Student",
+        "department": "TEST",
+        "year": "TEST",
+        "rollNumber": 1234,
+        "hackerrankId": "TEST",
+        "hackerrankMail": "TEST"
+    },
+    {
+        "email": "TEST",
+        "name": "TEST1",
+        "role": "Student",
+        "department": "TEST",
+        "year": "TEST",
+        "rollNumber": 1234,
+        "hackerrankId": "TEST1",
+        "hackerrankMail": "TEST"
+    }
+]
