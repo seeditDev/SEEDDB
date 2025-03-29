@@ -1,12 +1,14 @@
 [
     {
-        "email": "pandevaishnavi73@gmail.com",
-        "name": "Vaishnavi Pande",
-        "role": "Student",
-        "department": "E&TC",
-        "year": "2K27",
-        "rollNumber": "123",
-        "hackerrankId": "pandevaishnavi73",
-        "hackerrankMail": "pandevaishnavi73@gmail.com"
+        "Email": "pandevaishnavi73@gmail.com",
+        "Password": "123@PVGCOE",
+        "College": "PVGCOE",
+        "Name": "Vaishnavi Pande",
+        "Role": "Student",
+        "Roll Number": "123",
+        "Department": "E&TC",
+        "Year": "2K27",
+        "Hackerrank Mail": "pandevaishnavi73@gmail.com",
+        "Hackerrank ID": "pandevaishnavi73"
     }
 ]
