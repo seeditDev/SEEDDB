@@ -1,6 +1,8 @@
 [
     {
         "Email": "seed",
+        "Year": "2K24",
+        "Department": "CSBS",
         "Course": true,
         "Assessment1": false,
         "Assessment2": false,
@@ -17,6 +19,8 @@
     },
     {
         "Email": "pravindzlr@gmail.com",
+        "Year": "2K24",
+        "Department": "SEED",
         "Course": true,
         "Assessment1": false,
         "Assessment2": false,
@@ -33,6 +37,8 @@
     },
     {
         "Email": "ashokmarquez@gmail.com",
+        "Year": "2K24",
+        "Department": "MANAGEMENT",
         "Course": true,
         "Assessment1": false,
         "Assessment2": false,
@@ -49,6 +55,8 @@
     },
     {
         "Email": "siswarya31@gmail.com",
+        "Year": "2K24",
+        "Department": "MANAGEMENT",
         "Course": true,
         "Assessment1": false,
         "Assessment2": false,

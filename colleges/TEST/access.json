@@ -1,6 +1,8 @@
 [
     {
         "Email": "TEST",
+        "Year": "TEST",
+        "Department": "TEST",
         "Course": true,
         "Assessment1": false,
         "Assessment2": false,
@@ -17,6 +19,8 @@
     },
     {
         "Email": "TEST",
+        "Year": "TEST",
+        "Department": "TEST",
         "Course": true,
         "Assessment1": false,
         "Assessment2": false,
