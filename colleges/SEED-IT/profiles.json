@@ -1,7 +1,6 @@
 [
     {
         "Email": "seed",
-        "Password": "seed",
         "College": "SEED-IT",
         "Name": "TEMP_USER",
         "Role": "Student",
@@ -13,7 +12,6 @@
     },
     {
         "Email": "pravindzlr@gmail.com",
-        "Password": "007@SEED-IT",
         "College": "SEED-IT",
         "Name": "Pravin Kumar M",
         "Role": "Technical Manager",
@@ -25,7 +23,6 @@
     },
     {
         "Email": "ashokmarquez@gmail.com",
-        "Password": "241201001@SEED-IT",
         "College": "SEED-IT",
         "Name": "ASHOK SELVA KUMAR E",
         "Role": "DIRECTOR",
@@ -37,7 +34,6 @@
     },
     {
         "Email": "siswarya31@gmail.com",
-        "Password": "241201002@SEED-IT",
         "College": "SEED-IT",
         "Name": "AISWARYA S",
         "Role": "bUSINESS lEAD",
