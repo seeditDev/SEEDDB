@@ -1,8 +1,8 @@
 [
     {
         "email": "seed",
-        "password": "23CB001@SEED-IT"
-		"Role": "Student",
+        "password": "seed",
+		"Role": "Student"
     },
     {
         "email": "pravindzlr@gmail.com",
