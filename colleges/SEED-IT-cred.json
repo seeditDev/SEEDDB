@@ -2,6 +2,7 @@
     {
         "email": "seed",
         "password": "23CB001@SEED-IT"
+		"Role": "Student",
     },
     {
         "email": "pravindzlr@gmail.com",
