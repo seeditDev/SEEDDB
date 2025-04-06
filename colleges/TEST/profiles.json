@@ -1,6 +1,7 @@
 [
     {
         "Email": "TEST",
+        "Password": "1234@TEST",
         "College": "TEST",
         "Name": "TEST",
         "Role": "Student",
@@ -12,6 +13,7 @@
     },
     {
         "Email": "TEST",
+        "Password": "1234@TEST",
         "College": "TEST",
         "Name": "TEST1",
         "Role": "Student",
