@@ -25,43 +25,43 @@
                 "enabled": true,
                 "modules": {
                     "phase_1": true,
-                    "phase_2": false,
-                    "phase_3": false,
-                    "final": false
+                    "phase_2": true,
+                    "phase_3": true,
+                    "final": true
                 }
             },
             "company_specific": {
                 "enabled": true,
                 "modules": {
-                    "accenture": false,
-                    "cts": false,
-                    "capgemini": false,
-                    "infosys": false,
-                    "tcs": false,
-                    "wipro": false,
-                    "zoho": false
+                    "accenture": true,
+                    "cts": true,
+                    "capgemini": true,
+                    "infosys": true,
+                    "tcs": true,
+                    "wipro": true,
+                    "zoho": true
                 }
             },
             "special_tracks": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {
-                    "real_time_problems": false
+                    "real_time_problems": true
                 }
             },
             "dsa": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {}
             },
             "advanced_topics": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {}
             },
             "projects": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {}
             },
             "interview_prep": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {}
             }
         }
@@ -89,46 +89,46 @@
                 }
             },
             "assessments": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {
-                    "phase_1": false,
-                    "phase_2": false,
-                    "phase_3": false,
-                    "final": false
+                    "phase_1": true,
+                    "phase_2": true,
+                    "phase_3": true,
+                    "final": true
                 }
             },
             "company_specific": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {
-                    "accenture": false,
-                    "cts": false,
-                    "capgemini": false,
-                    "infosys": false,
-                    "tcs": false,
-                    "wipro": false,
-                    "zoho": false
+                    "accenture": true,
+                    "cts": true,
+                    "capgemini": true,
+                    "infosys": true,
+                    "tcs": true,
+                    "wipro": true,
+                    "zoho": true
                 }
             },
             "special_tracks": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {
-                    "real_time_problems": false
+                    "real_time_problems": true
                 }
             },
             "dsa": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {}
             },
             "advanced_topics": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {}
             },
             "projects": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {}
             },
             "interview_prep": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {}
             }
         }
@@ -156,46 +156,46 @@
                 }
             },
             "assessments": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {
-                    "phase_1": false,
-                    "phase_2": false,
-                    "phase_3": false,
-                    "final": false
+                    "phase_1": true,
+                    "phase_2": true,
+                    "phase_3": true,
+                    "final": true
                 }
             },
             "company_specific": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {
-                    "accenture": false,
-                    "cts": false,
-                    "capgemini": false,
-                    "infosys": false,
-                    "tcs": false,
-                    "wipro": false,
-                    "zoho": false
+                    "accenture": true,
+                    "cts": true,
+                    "capgemini": true,
+                    "infosys": true,
+                    "tcs": true,
+                    "wipro": true,
+                    "zoho": true
                 }
             },
             "special_tracks": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {
-                    "real_time_problems": false
+                    "real_time_problems": true
                 }
             },
             "dsa": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {}
             },
             "advanced_topics": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {}
             },
             "projects": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {}
             },
             "interview_prep": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {}
             }
         }
@@ -223,46 +223,46 @@
                 }
             },
             "assessments": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {
-                    "phase_1": false,
-                    "phase_2": false,
-                    "phase_3": false,
-                    "final": false
+                    "phase_1": true,
+                    "phase_2": true,
+                    "phase_3": true,
+                    "final": true
                 }
             },
             "company_specific": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {
-                    "accenture": false,
-                    "cts": false,
-                    "capgemini": false,
-                    "infosys": false,
-                    "tcs": false,
-                    "wipro": false,
-                    "zoho": false
+                    "accenture": true,
+                    "cts": true,
+                    "capgemini": true,
+                    "infosys": true,
+                    "tcs": true,
+                    "wipro": true,
+                    "zoho": true
                 }
             },
             "special_tracks": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {
-                    "real_time_problems": false
+                    "real_time_problems": true
                 }
             },
             "dsa": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {}
             },
             "advanced_topics": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {}
             },
             "projects": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {}
             },
             "interview_prep": {
-                "enabled": false,
+                "enabled": true,
                 "modules": {}
             }
         }
