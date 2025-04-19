@@ -5,60 +5,6 @@
     "cache_duration": "24h"
   },
   "courses": {
-    "dsa": {
-      "title": "Data Structures & Algorithms",
-      "display_order": 2,
-      "modules": {
-        "arrays_algorithms": {
-          "id": "D001",
-          "name": "Array Algorithms",
-          "url": "placeholder_url",
-          "display_order": 1
-        },
-        "linked_lists": {
-          "id": "D002",
-          "name": "Linked Lists",
-          "url": "placeholder_url",
-          "display_order": 2
-        },
-        "stacks_queues": {
-          "id": "D003",
-          "name": "Stacks and Queues",
-          "url": "placeholder_url",
-          "display_order": 3
-        },
-        "trees": {
-          "id": "D004",
-          "name": "Tree Data Structures",
-          "url": "placeholder_url",
-          "display_order": 4
-        },
-        "graphs": {
-          "id": "D005",
-          "name": "Graph Algorithms",
-          "url": "placeholder_url",
-          "display_order": 5
-        },
-        "searching": {
-          "id": "D006",
-          "name": "Searching Algorithms",
-          "url": "placeholder_url",
-          "display_order": 6
-        },
-        "sorting": {
-          "id": "D007",
-          "name": "Sorting Algorithms",
-          "url": "placeholder_url",
-          "display_order": 7
-        },
-        "dynamic_programming": {
-          "id": "D008",
-          "name": "Dynamic Programming",
-          "url": "placeholder_url",
-          "display_order": 8
-        }
-      }
-    },
     "advanced_topics": {
       "title": "Advanced C Programming",
       "display_order": 3,
