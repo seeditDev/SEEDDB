@@ -395,7 +395,7 @@
           "E&TC": {
             "allowed_modules": [
               "F001",
-              null
+              "A001"
             ],
             "batch_start": "",
             "batch_end": ""
