@@ -356,52 +356,6 @@
   },
   "access_control": {
     "colleges": {
-      "KPRIET": {
-        "2K24": {
-          "CSBS": {
-            "allowed_modules": [
-              "F001",
-              "F002",
-              "F003",
-              "F004",
-              "F005",
-              "A001",
-              "F006",
-              "D001",
-              "D002",
-              "D003",
-              "D007",
-              "T001",
-              "T002",
-              "T003"
-            ],
-            "batch_start": "2025-03-01",
-            "batch_end": "2025-12-31"
-          }
-        },
-        "2K24,2K22,2K25,2K26,2K27": {
-          "CSBS,AIDS,CSD,BCA,MECHATRONICS,CYBER,IOT,CLOUD,BCOM_CA,ETC,BSC_CS,CIVIL,MECH,EEE,ECE": {
-            "allowed_modules": [
-              "F001",
-              "F002",
-              "F003",
-              "F004",
-              "F005",
-              "A001",
-              "F006",
-              "D001",
-              "D002",
-              "D003",
-              "D007",
-              "T001",
-              "T002",
-              "T003"
-            ],
-            "batch_start": "2025-03-01",
-            "batch_end": "2025-12-31"
-          }
-        }
-      },
       "SREC": {
         "2K24": {
           "EEE": {
