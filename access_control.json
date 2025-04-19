@@ -394,7 +394,7 @@
         "2K27": {
           "E&TC": {
             "allowed_modules": [
-              null,
+              "F001",
               null
             ],
             "batch_start": "",
