@@ -393,7 +393,9 @@
       "PVGCOE": {
         "2K27": {
           "E&TC": {
-            "allowed_modules": [],
+            "allowed_modules": [
+              null
+            ],
             "batch_start": "",
             "batch_end": ""
           }
