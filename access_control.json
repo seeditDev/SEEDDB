@@ -1,7 +1,7 @@
 {
   "metadata": {
     "version": "1.0",
-    "last_updated": "2024-03-20",
+    "last_updated": "2025-04-19",
     "cache_duration": "24h"
   },
   "courses": {
@@ -322,99 +322,12 @@
           "display_order": 1
         }
       }
+    },
+    "seed_special": {
+      "title": "SEED SPECIAL",
+      "display_order": 9,
+      "modules": {}
     }
   },
-  "access_control": {
-    "colleges": {
-      "KPRIET": {
-        "2K24": {
-          "CSBS": {
-            "allowed_modules": [
-              "F001",
-              "F002",
-              "F003",
-              "F004",
-              "F005",
-              "A001"
-            ],
-            "batch_start": "2025-03-01",
-            "batch_end": "2025-12-31"
-          }
-        }
-      },
-      "SREC": {
-        "2K24": {
-          "EEE": {
-            "allowed_modules": [
-              "F001",
-              "F002",
-              "F003",
-              "F004",
-              "F005",
-              "A001",
-              "A002"
-            ],
-            "batch_start": "2024-03-01",
-            "batch_end": "2024-12-31",
-            "assessment_controls": {
-              "A001": {
-                "start_time": "2024-04-01T10:00:00Z",
-                "end_time": "2024-04-01T12:00:00Z",
-                "duration_minutes": 120,
-                "attempts_allowed": 1,
-                "status": "scheduled"
-              },
-              "A002": {
-                "start_time": "2024-05-01T14:00:00Z",
-                "end_time": "2024-05-01T16:00:00Z",
-                "duration_minutes": 120,
-                "attempts_allowed": 1,
-                "status": "scheduled"
-              }
-            }
-          }
-        }
-      },
-      "SEED-IT": {
-        "2K24": {
-          "CSBS": {
-            "allowed_modules": [
-              "F001",
-              "F002",
-              "F003",
-              "F004",
-              "F005"
-            ],
-            "batch_start": "2025-03-01",
-            "batch_end": "2025-12-31"
-          }
-        }
-      },
-      "PVGCOE": {
-        "2K27": {
-          "E&TC": {
-            "allowed_modules": [
-              "F008",
-              "F009",
-              "F007",
-              "F006",
-              "F005",
-              "F004",
-              "F003",
-              "F002",
-              "F001"
-            ],
-            "batch_start": "2025-04-19",
-            "batch_end": "2026-01-31"
-          }
-        }
-      }
-    },
-    "assessment_statuses": [
-      "scheduled",
-      "in_progress",
-      "completed",
-      "cancelled"
-    ]
-  }
+  "access_control": {}
 }
