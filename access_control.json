@@ -5,42 +5,6 @@
     "cache_duration": "24h"
   },
   "courses": {
-    "interview_prep": {
-      "title": "Interview Preparation",
-      "display_order": 5,
-      "modules": {
-        "coding_challenges": {
-          "id": "I001",
-          "name": "Coding Challenges",
-          "url": "placeholder_url",
-          "display_order": 1
-        },
-        "mock_interviews": {
-          "id": "I002",
-          "name": "Technical Mock Interviews",
-          "url": "placeholder_url",
-          "display_order": 2
-        },
-        "problem_solving": {
-          "id": "I003",
-          "name": "Problem Solving Techniques",
-          "url": "placeholder_url",
-          "display_order": 3
-        },
-        "optimization": {
-          "id": "I004",
-          "name": "Code Optimization Problems",
-          "url": "placeholder_url",
-          "display_order": 4
-        },
-        "system_design": {
-          "id": "I005",
-          "name": "Basic System Design",
-          "url": "placeholder_url",
-          "display_order": 5
-        }
-      }
-    },
     "assessments": {
       "title": "Course Assessments",
       "display_order": 6,
