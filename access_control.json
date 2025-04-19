@@ -336,7 +336,8 @@
               "F004",
               "F005",
               "A001",
-              "fundamentals"
+              "fundamentals",
+              "dsa"
             ],
             "batch_start": "2025-03-01",
             "batch_end": "2025-12-31"
