@@ -5,42 +5,6 @@
     "cache_duration": "24h"
   },
   "courses": {
-    "advanced_topics": {
-      "title": "Advanced C Programming",
-      "display_order": 3,
-      "modules": {
-        "file_handling": {
-          "id": "T001",
-          "name": "File Operations and Handling",
-          "url": "placeholder_url",
-          "display_order": 1
-        },
-        "memory_management": {
-          "id": "T002",
-          "name": "Memory Management and Dynamic Allocation",
-          "url": "placeholder_url",
-          "display_order": 2
-        },
-        "preprocessor": {
-          "id": "T003",
-          "name": "Preprocessor Directives",
-          "url": "placeholder_url",
-          "display_order": 3
-        },
-        "multithreading": {
-          "id": "T004",
-          "name": "Multi-threading Basics",
-          "url": "placeholder_url",
-          "display_order": 4
-        },
-        "networking": {
-          "id": "T005",
-          "name": "Socket Programming",
-          "url": "placeholder_url",
-          "display_order": 5
-        }
-      }
-    },
     "projects": {
       "title": "Hands-on Projects",
       "display_order": 4,
