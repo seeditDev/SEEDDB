@@ -5,42 +5,6 @@
     "cache_duration": "24h"
   },
   "courses": {
-    "projects": {
-      "title": "Hands-on Projects",
-      "display_order": 4,
-      "modules": {
-        "mini_projects": {
-          "id": "P001",
-          "name": "Mini Projects",
-          "url": "placeholder_url",
-          "display_order": 1
-        },
-        "file_manager": {
-          "id": "P002",
-          "name": "File Management System",
-          "url": "placeholder_url",
-          "display_order": 2
-        },
-        "library_system": {
-          "id": "P003",
-          "name": "Library Management System",
-          "url": "placeholder_url",
-          "display_order": 3
-        },
-        "database": {
-          "id": "P004",
-          "name": "Simple Database Implementation",
-          "url": "placeholder_url",
-          "display_order": 4
-        },
-        "game": {
-          "id": "P005",
-          "name": "Console-based Game",
-          "url": "placeholder_url",
-          "display_order": 5
-        }
-      }
-    },
     "interview_prep": {
       "title": "Interview Preparation",
       "display_order": 5,
