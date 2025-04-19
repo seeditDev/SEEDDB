@@ -34,54 +34,6 @@
           "display_order": 4
         }
       }
-    },
-    "company_specific": {
-      "title": "Company-Specific Practice",
-      "display_order": 7,
-      "modules": {
-        "tcs": {
-          "id": "C001",
-          "name": "TCS Practice Problems",
-          "url": "https://www.hackerrank.com/seed-it-sde-c-level-0-1-basic-datatypes",
-          "display_order": 1
-        },
-        "cts": {
-          "id": "C002",
-          "name": "Cognizant Practice Problems",
-          "url": "https://www.hackerrank.com/seed-it-sde-c-level-0-1-conditional-statements",
-          "display_order": 2
-        },
-        "accenture": {
-          "id": "C003",
-          "name": "Accenture Practice Problems",
-          "url": "https://www.hackerrank.com/seed-it-sde-c-level-0-1-looping",
-          "display_order": 3
-        },
-        "infosys": {
-          "id": "C004",
-          "name": "Infosys Practice Problems",
-          "url": "https://www.hackerrank.com/seed-it-sde-c-level-0-1-patterns",
-          "display_order": 4
-        },
-        "wipro": {
-          "id": "C005",
-          "name": "Wipro Practice Problems",
-          "url": "https://www.hackerrank.com/seed-it-sde-c-level-0-1-number-crunching",
-          "display_order": 5
-        },
-        "zoho": {
-          "id": "C006",
-          "name": "Zoho Practice Problems",
-          "url": "https://www.hackerrank.com/seed-it-sde-c-level-0-1-number-based-problems",
-          "display_order": 6
-        },
-        "capgemini": {
-          "id": "C007",
-          "name": "Capgemini Practice Problems",
-          "url": "https://www.hackerrank.com/seed-it-sde-c-level-0-1-arrays",
-          "display_order": 7
-        }
-      }
     }
   },
   "access_control": {
