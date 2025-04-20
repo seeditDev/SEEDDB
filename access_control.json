@@ -328,24 +328,6 @@
           "display_order": 1
         }
       }
-    },
-    "sseee": {
-      "title": "SSEEE",
-      "display_order": 9,
-      "modules": {
-        "ask1": {
-          "id": "M001",
-          "name": "ASK1",
-          "url": "https://seedit.in",
-          "display_order": 1
-        },
-        "ask2": {
-          "id": "M002",
-          "name": "ASK2",
-          "url": "https://seedit.in",
-          "display_order": 1
-        }
-      }
     }
   },
   "access_control": {
