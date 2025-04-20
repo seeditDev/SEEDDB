@@ -68,12 +68,6 @@
           "name": "Structures and Concepts",
           "url": "https://www.hackerrank.com/seed-it-sde-c-level-0-1-structures-and-concepts",
           "display_order": 10
-        },
-        "2-d_array": {
-          "id": "F011",
-          "name": "2-d array",
-          "url": "seedit.in",
-          "display_order": 11
         }
       }
     },
