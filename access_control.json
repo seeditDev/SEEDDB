@@ -555,6 +555,80 @@
             "batch_end": ""
           }
         }
+      },
+      "PVGCOE": {
+        "2K24": {
+          "EEE": {
+            "allowed_modules": [
+              "T001",
+              "T002",
+              "T003",
+              "T004",
+              "T005"
+            ],
+            "batch_start": "",
+            "batch_end": ""
+          },
+          "ECE": {
+            "allowed_modules": [
+              "T001",
+              "T002",
+              "T003",
+              "T004",
+              "T005"
+            ],
+            "batch_start": "",
+            "batch_end": ""
+          }
+        },
+        "2K26": {
+          "EEE": {
+            "allowed_modules": [
+              "T001",
+              "T002",
+              "T003",
+              "T004",
+              "T005"
+            ],
+            "batch_start": "",
+            "batch_end": ""
+          },
+          "ECE": {
+            "allowed_modules": [
+              "T001",
+              "T002",
+              "T003",
+              "T004",
+              "T005"
+            ],
+            "batch_start": "",
+            "batch_end": ""
+          }
+        },
+        "2K27": {
+          "EEE": {
+            "allowed_modules": [
+              "T001",
+              "T002",
+              "T003",
+              "T004",
+              "T005"
+            ],
+            "batch_start": "",
+            "batch_end": ""
+          },
+          "ECE": {
+            "allowed_modules": [
+              "T001",
+              "T002",
+              "T003",
+              "T004",
+              "T005"
+            ],
+            "batch_start": "",
+            "batch_end": ""
+          }
+        }
       }
     },
     "assessment_statuses": [
