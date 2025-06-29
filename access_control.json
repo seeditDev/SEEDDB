@@ -260,6 +260,12 @@
           "name": "Final Assessment",
           "url": "https://www.hackerrank.com/seed-it-sde-assessment-phase-final",
           "display_order": 4
+        },
+        "daily_assessments": {
+          "id": "A005",
+          "name": "Daily Assessments",
+          "url": "https://www.hackerrank.com/daily-challenge-kite2026",
+          "display_order": 5
         }
       }
     },
