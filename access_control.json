@@ -75,52 +75,52 @@
       "title": "Data Structures & Algorithms",
       "display_order": 2,
       "modules": {
-        "arrays_algorithms": {
+        "array_algorithms": {
           "id": "D001",
           "name": "Array Algorithms",
-          "url": "placeholder_url",
+          "url": "https://www.hackerrank.com/seed-it-data-structures",
           "display_order": 1
         },
         "linked_lists": {
           "id": "D002",
           "name": "Linked Lists",
-          "url": "placeholder_url",
+          "url": "https://www.hackerrank.com/seed-it-data-structures",
           "display_order": 2
         },
-        "stacks_queues": {
+        "stacks_and_queues": {
           "id": "D003",
           "name": "Stacks and Queues",
-          "url": "placeholder_url",
+          "url": "https://www.hackerrank.com/seed-it-data-structures",
           "display_order": 3
         },
-        "trees": {
+        "tree_data_structures": {
           "id": "D004",
           "name": "Tree Data Structures",
-          "url": "placeholder_url",
+          "url": "https://www.hackerrank.com/seed-it-data-structures",
           "display_order": 4
         },
-        "graphs": {
+        "graph_algorithms": {
           "id": "D005",
           "name": "Graph Algorithms",
-          "url": "placeholder_url",
+          "url": "https://www.hackerrank.com/seed-it-data-structures",
           "display_order": 5
         },
-        "searching": {
+        "searching_algorithms": {
           "id": "D006",
           "name": "Searching Algorithms",
-          "url": "placeholder_url",
+          "url": "https://www.hackerrank.com/seed-it-data-structures",
           "display_order": 6
         },
-        "sorting": {
+        "sorting_algorithms": {
           "id": "D007",
           "name": "Sorting Algorithms",
-          "url": "placeholder_url",
+          "url": "https://www.hackerrank.com/seed-it-data-structures",
           "display_order": 7
         },
         "dynamic_programming": {
           "id": "D008",
           "name": "Dynamic Programming",
-          "url": "placeholder_url",
+          "url": "https://www.hackerrank.com/seed-it-data-structures",
           "display_order": 8
         }
       }
