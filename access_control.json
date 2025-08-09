@@ -334,6 +334,11 @@
           "display_order": 1
         }
       }
+    },
+    "assessment": {
+      "title": "Assessment",
+      "display_order": 9,
+      "modules": {}
     }
   },
   "access_control": {
