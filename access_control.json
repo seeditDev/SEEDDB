@@ -9,20 +9,12 @@
       "title": "MCQ Assessments",
       "display_order": 9,
       "modules": {
-        "test_1": {
+        "test_name": {
           "id": "MCQ001",
           "name": "Test Name",
-          "url": "/mcqs/test1.json",
-          "passkey": "123456",
-          "schedule": {
-            "startDate": "2024-01-01",
-            "startTime": "00:00",
-            "endDate": "2026-12-31",
-            "endTime": "23:59"
-          },
-          "difficulty": "Medium",
-          "questions": 30,
-          "duration_minutes": 60
+          "url": "/mcqs/Hackathon/test1.json",
+          "display_order": null,
+          "passkey": "123456"
         }
       }
     },
