@@ -34,6 +34,12 @@
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
           }
+        },
+        "qwe": {
+          "id": "MC003",
+          "name": "qwe",
+          "url": "/mcqs/Hackathon/test1.json",
+          "display_order": 3
         }
       }
     },
