@@ -16,12 +16,24 @@
           "display_order": 1,
           "passkey": "123456"
         },
-        "asdf": {
-          "id": "MNaN",
-          "name": "asdf",
-          "url": "\t/mcqs/Hackathon/test1.json",
+        "asd": {
+          "id": "A002",
+          "name": "ASD",
+          "url": "/mcqs/Hackathon/test1.json",
           "display_order": 2,
-          "passkey": "123456"
+          "passkey": "123456",
+          "difficulty": "Medium",
+          "questions": 30,
+          "duration_minutes": 60,
+          "schedule": {
+            "type": "daily",
+            "startDate": "2025-11-12",
+            "startTime": "13:56",
+            "endDate": "2025-11-30",
+            "endTime": "13:02",
+            "daysOfWeek": [],
+            "timezone": "Asia/Kolkata"
+          }
         }
       }
     },
