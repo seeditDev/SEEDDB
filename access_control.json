@@ -40,6 +40,16 @@
           "name": "qwe",
           "url": "/mcqs/Hackathon/test1.json",
           "display_order": 3
+        },
+        "zxc": {
+          "id": "A004",
+          "name": "zxc",
+          "url": "/mcqs/Hackathon/test1.json",
+          "display_order": 4,
+          "passkey": "12345",
+          "difficulty": "Medium",
+          "questions": 30,
+          "duration_minutes": 60
         }
       }
     },
