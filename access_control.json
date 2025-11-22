@@ -1350,7 +1350,9 @@
           "MECH": {
             "allowed_modules": [
               "MC003",
-              "MCQ001"
+              "MCQ001",
+              "A001",
+              "A001"
             ],
             "batch_start": "2025-06-29",
             "batch_end": "2026-07-29"
@@ -1358,7 +1360,9 @@
           "ECE": {
             "allowed_modules": [
               "MC003",
-              "MCQ001"
+              "MCQ001",
+              "A001",
+              "A001"
             ],
             "batch_start": "2025-06-29",
             "batch_end": "2026-07-29"
@@ -1366,7 +1370,9 @@
           "CSE": {
             "allowed_modules": [
               "MC003",
-              "MCQ001"
+              "MCQ001",
+              "A001",
+              "A001"
             ],
             "batch_start": "2025-06-29",
             "batch_end": "2026-07-29"
@@ -1374,7 +1380,9 @@
           "IT": {
             "allowed_modules": [
               "MC003",
-              "MCQ001"
+              "MCQ001",
+              "A001",
+              "A001"
             ],
             "batch_start": "2025-06-29",
             "batch_end": "2026-07-29"
@@ -1382,7 +1390,9 @@
           "AIDS": {
             "allowed_modules": [
               "MC003",
-              "MCQ001"
+              "MCQ001",
+              "A001",
+              "A001"
             ],
             "batch_start": "2025-06-29",
             "batch_end": "2026-07-29"
@@ -1390,7 +1400,9 @@
           "CSBS": {
             "allowed_modules": [
               "MC003",
-              "MCQ001"
+              "MCQ001",
+              "A001",
+              "A001"
             ],
             "batch_start": "2025-06-29",
             "batch_end": "2026-07-29"
@@ -1398,7 +1410,9 @@
           "MCA": {
             "allowed_modules": [
               "MC003",
-              "MCQ001"
+              "MCQ001",
+              "A001",
+              "A001"
             ],
             "batch_start": "2025-06-29",
             "batch_end": "2026-07-29"
