@@ -8,7 +8,18 @@
     "mcqs": {
       "title": "MCQ Assessments",
       "display_order": 9,
-      "modules": {}
+      "modules": {
+        "techninal_mcqs_1": {
+          "id": "A001",
+          "name": "Techninal MCQs 1",
+          "url": "/mcqs/Hackathon/test1.json",
+          "display_order": 1,
+          "passkey": "123456",
+          "difficulty": "Medium",
+          "questions": 30,
+          "duration_minutes": 60
+        }
+      }
     },
     "fundamentals": {
       "title": "C Programming Fundamentals",
