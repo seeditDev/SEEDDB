@@ -8,18 +8,7 @@
     "mcqs": {
       "title": "MCQ Assessments",
       "display_order": 9,
-      "modules": {
-        "tech_apti_mcqs": {
-          "id": "MCQ001",
-          "name": "Tech_Apti MCQs",
-          "url": "/mcqs/Hackathon/test1.json",
-          "display_order": 1,
-          "passkey": "123456",
-          "difficulty": "Medium",
-          "questions": 30,
-          "duration_minutes": 60
-        }
-      }
+      "modules": {}
     },
     "fundamentals": {
       "title": "C Programming Fundamentals",
