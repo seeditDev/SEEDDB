@@ -1370,6 +1370,7 @@
           },
           "AIDS": {
             "allowed_modules": [
+              "MC003",
               "MCQ001"
             ],
             "batch_start": "2025-06-29",
