@@ -302,6 +302,16 @@
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
           }
+        },
+        "pre-assessment": {
+          "id": "A007",
+          "name": "Pre-Assessment",
+          "url": "https://www.hackerrank.com/daily-coding-challenge-2027",
+          "display_order": 8,
+          "passkey": "123456",
+          "difficulty": "Medium",
+          "questions": 30,
+          "duration_minutes": 60
         }
       }
     },
