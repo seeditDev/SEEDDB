@@ -24,6 +24,16 @@
           "difficulty": "Medium",
           "questions": 30,
           "duration_minutes": 30
+        },
+        "assessment_2_-_(aids,_ece)": {
+          "id": "A003",
+          "name": "Assessment 2 - (AIDS, ECE)",
+          "url": "/mcqs/Hackathon/test3.json",
+          "display_order": 3,
+          "passkey": "234567",
+          "difficulty": "Medium",
+          "questions": 30,
+          "duration_minutes": 30
         }
       }
     },
