@@ -14,6 +14,16 @@
           "name": "Techninal MCQs 1",
           "url": "/mcqs/Hackathon/test1.json",
           "display_order": 1
+        },
+        "assessment_1_-_(cse,it,csbs)": {
+          "id": "A002",
+          "name": "Assessment 1 - (CSE,IT,CSBS)",
+          "url": "/mcqs/Hackathon/test1.json",
+          "display_order": 2,
+          "passkey": "987654",
+          "difficulty": "Medium",
+          "questions": 30,
+          "duration_minutes": 30
         }
       }
     },
