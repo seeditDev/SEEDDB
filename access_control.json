@@ -18,7 +18,7 @@
         "assessment_1_-_(cse,it,csbs)": {
           "id": "A002",
           "name": "Assessment 1 - (CSE,IT,CSBS)",
-          "url": "/mcqs/Hackathon/test1.json",
+          "url": "/mcqs/Hackathon/test2.json",
           "display_order": 2,
           "passkey": "987654",
           "difficulty": "Medium",
