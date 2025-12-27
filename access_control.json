@@ -25,15 +25,24 @@
           "questions": 30,
           "duration_minutes": 30
         },
-        "assessment_2_-_(aids,_ece)": {
-          "id": "A003",
-          "name": "Assessment 2 - (AIDS, ECE)",
+        "weekly_assessment-28.12.2025": {
+          "id": "MA003",
+          "name": "Weekly Assessment-28.12.2025",
           "url": "/mcqs/Hackathon/test3.json",
           "display_order": 3,
-          "passkey": "234567",
+          "passkey": "123456",
           "difficulty": "Medium",
           "questions": 30,
-          "duration_minutes": 30
+          "duration_minutes": 30,
+          "schedule": {
+            "type": "one_time",
+            "startDate": "2025-12-27",
+            "startTime": "18:15",
+            "endDate": "2025-12-28",
+            "endTime": "23:59",
+            "daysOfWeek": [],
+            "timezone": "Asia/Kolkata"
+          }
         }
       }
     },
