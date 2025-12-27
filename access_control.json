@@ -9,14 +9,9 @@
       "title": "MCQ Assessments",
       "display_order": 9,
       "modules": {
-        "techninal_mcqs_1": {
-          "id": "A001",
-          "name": "Techninal MCQs 1",
-          "url": "/mcqs/Hackathon/test1.json",
-          "display_order": 1
-        },
+        
         "assessment_1_-_(cse,it,csbs)": {
-          "id": "A002",
+          "id": "MA002",
           "name": "Assessment 1 - (CSE,IT,CSBS)",
           "url": "/mcqs/Hackathon/test2.json",
           "display_order": 2,
