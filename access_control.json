@@ -365,6 +365,25 @@
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
           }
+        },
+        "weekly_assessments-28.12.2025": {
+          "id": "CA009",
+          "name": "Weekly Assessments-28.12.2025",
+          "url": "https://www.hackerrank.com/mid-assess-1-2-2027-kite",
+          "display_order": 10,
+          "passkey": "123456",
+          "difficulty": "Medium",
+          "questions": 5,
+          "duration_minutes": 90,
+          "schedule": {
+            "type": "one_time",
+            "startDate": "2025-12-27",
+            "startTime": "18:15",
+            "endDate": "2025-12-28",
+            "endTime": "23:59",
+            "daysOfWeek": [],
+            "timezone": "Asia/Kolkata"
+          }
         }
       }
     },
