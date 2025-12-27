@@ -93,18 +93,6 @@
           "url": "https://www.hackerrank.com/seed-it-sde-c-level-0-1-strings",
           "display_order": 8
         },
-        "functions_pointers": {
-          "id": "F009",
-          "name": "Functions and Pointers",
-          "url": "https://www.hackerrank.com/seed-it-sde-c-level-0-1-functions-and-pointers",
-          "display_order": 9
-        },
-        "structures": {
-          "id": "F010",
-          "name": "Structures and Concepts",
-          "url": "https://www.hackerrank.com/seed-it-sde-c-level-0-1-structures-and-concepts",
-          "display_order": 10
-        }
       }
     },
     "dsa": {
