@@ -25,9 +25,9 @@
           "questions": 30,
           "duration_minutes": 30
         },
-        "assessment_2_-_(aids,_ece)": {
+        "weekly_assessment": {
           "id": "A003",
-          "name": "Assessment 2 - (AIDS, ECE)",
+          "name": "Weekly Assessment",
           "url": "/mcqs/Hackathon/test3.json",
           "display_order": 3,
           "passkey": "234567",
