@@ -406,18 +406,6 @@
           "display_order": 7
         }
       }
-    },
-    "special_tracks": {
-      "title": "Special Practice Tracks",
-      "display_order": 8,
-      "modules": {
-        "real_time_problems": {
-          "id": "S001",
-          "name": "Real-Time Problem Solving",
-          "url": "https://www.hackerrank.com/seed-it-sde-c-level-0-1-strings",
-          "display_order": 1
-        }
-      }
     }
   },
   "access_control": {
