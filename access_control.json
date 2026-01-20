@@ -34,6 +34,16 @@
           "difficulty": "Medium",
           "questions": 30,
           "duration_minutes": 30
+        },
+        "onboarding_test": {
+          "id": "MA004",
+          "name": "Onboarding Test",
+          "url": "/mcqs/Hackathon/onboardingtest.json",
+          "display_order": 4,
+          "passkey": "123456",
+          "difficulty": "Medium",
+          "questions": 30,
+          "duration_minutes": 60
         }
       }
     },
