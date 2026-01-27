@@ -205,7 +205,7 @@
           "duration_minutes": 180,
           "schedule": {
             "type": "one_time",
-            "startDate": "2026-01-28",
+            "startDate": "2026-01-27",
             "startTime": "08:30",
             "endDate": "2026-01-28",
             "endTime": "12:15",
