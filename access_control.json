@@ -165,9 +165,9 @@
             "timezone": "Asia/Kolkata"
           }
         },
-        "onboarding_assessment": {
+        "pre-assessment_": {
           "id": "CA009",
-          "name": "Onboarding Assessment",
+          "name": "Pre-Assessment ",
           "url": "https://www.hackerrank.com/onboarding-kite-2028",
           "display_order": 3,
           "passkey": "123456",
