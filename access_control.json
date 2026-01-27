@@ -231,6 +231,25 @@
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
           }
+        },
+        "assessment_1_-_2028": {
+          "id": "CA012",
+          "name": "Assessment 1 - 2028",
+          "url": "https://www.hackerrank.com/assessment-1-kite-2028",
+          "display_order": 6,
+          "passkey": "987654",
+          "difficulty": "Medium",
+          "questions": 2,
+          "duration_minutes": 60,
+          "schedule": {
+            "type": "one_time",
+            "startDate": "2026-01-28",
+            "startTime": "07:55",
+            "endDate": "2026-01-28",
+            "endTime": "10:00",
+            "daysOfWeek": [],
+            "timezone": "Asia/Kolkata"
+          }
         }
       }
     }
