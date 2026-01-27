@@ -180,16 +180,16 @@
           "name": "ELITE SEGREGATION TEST - SET 1",
           "url": "https://www.hackerrank.com/elite-segregation-assessment-set1",
           "display_order": 4,
-          "passkey": "1234567",
+          "passkey": "123456",
           "difficulty": "Medium",
           "questions": 5,
           "duration_minutes": 180,
           "schedule": {
             "type": "one_time",
-            "startDate": "2026-01-26",
-            "startTime": "13:00",
-            "endDate": "2026-01-27",
-            "endTime": "16:15",
+            "startDate": "2026-01-28",
+            "startTime": "08:30",
+            "endDate": "2026-01-28",
+            "endTime": "12:15",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
           }
@@ -199,16 +199,16 @@
           "name": "ELITE SEGREGATION TEST - SET 2",
           "url": "https://www.hackerrank.com/elite-segregation-assessment-set2",
           "display_order": 5,
-          "passkey": "234567",
+          "passkey": "987654",
           "difficulty": "Medium",
           "questions": 5,
           "duration_minutes": 180,
           "schedule": {
             "type": "one_time",
-            "startDate": "2026-01-26",
-            "startTime": "13:00",
-            "endDate": "2026-01-27",
-            "endTime": "16:15",
+            "startDate": "2026-01-28",
+            "startTime": "08:30",
+            "endDate": "2026-01-28",
+            "endTime": "12:15",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
           }
