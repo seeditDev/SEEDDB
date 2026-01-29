@@ -304,11 +304,6 @@
           }
         },
         "2K28": {
-          "CIVIL": {
-            "allowed_modules": [],
-            "batch_start": "2026-01-29",
-            "batch_end": "2028-03-29"
-          },
           "MECH": {
             "allowed_modules": [],
             "batch_start": "2026-01-29",
