@@ -340,12 +340,16 @@
             "batch_end": ""
           },
           "ECE": {
-            "allowed_modules": [],
+            "allowed_modules": [
+              "F001"
+            ],
             "batch_start": "",
             "batch_end": ""
           },
           "CSE": {
-            "allowed_modules": [],
+            "allowed_modules": [
+              "F001"
+            ],
             "batch_start": "",
             "batch_end": ""
           },
