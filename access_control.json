@@ -369,11 +369,6 @@
             "batch_start": "2026-01-29",
             "batch_end": "2028-03-29"
           },
-          "CLOUD": {
-            "allowed_modules": [],
-            "batch_start": "2026-01-29",
-            "batch_end": "2028-03-29"
-          },
           "ETC": {
             "allowed_modules": [],
             "batch_start": "2026-01-29",
