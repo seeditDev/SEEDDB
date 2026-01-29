@@ -314,6 +314,11 @@
             "allowed_modules": [],
             "batch_start": "",
             "batch_end": ""
+          },
+          "CIVIL": {
+            "allowed_modules": [],
+            "batch_start": "",
+            "batch_end": ""
           }
         }
       }
