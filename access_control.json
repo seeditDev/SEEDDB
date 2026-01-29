@@ -474,6 +474,18 @@
             "allowed_modules": [],
             "batch_start": "",
             "batch_end": ""
+          },
+          "IT": {
+            "allowed_modules": [],
+            "batch_start": "",
+            "batch_end": ""
+          }
+        },
+        "2K28": {
+          "MECH": {
+            "allowed_modules": [],
+            "batch_start": "",
+            "batch_end": ""
           }
         }
       }
