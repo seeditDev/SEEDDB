@@ -467,6 +467,15 @@
             "batch_end": "2028-03-29"
           }
         }
+      },
+      "BOT": {
+        "2K29": {
+          "CSE": {
+            "allowed_modules": [],
+            "batch_start": "",
+            "batch_end": ""
+          }
+        }
       }
     },
     "assessment_statuses": [
