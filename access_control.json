@@ -301,6 +301,11 @@
             "allowed_modules": [],
             "batch_start": "2026-01-29",
             "batch_end": "2027-03-29"
+          },
+          "CIVIL": {
+            "allowed_modules": [],
+            "batch_start": "2026-01-29",
+            "batch_end": "2027-03-29"
           }
         }
       }
