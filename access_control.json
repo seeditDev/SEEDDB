@@ -525,6 +525,18 @@
           "MCA": {
             "allowed_modules": []
           }
+        },
+        "2K24": {
+          "CYBER": {
+            "allowed_modules": [],
+            "batch_start": "",
+            "batch_end": ""
+          },
+          "MECH": {
+            "allowed_modules": [],
+            "batch_start": "",
+            "batch_end": ""
+          }
         }
       }
     },
