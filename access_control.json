@@ -153,13 +153,13 @@
           "display_order": 1,
           "passkey": "123456",
           "difficulty": "Medium",
-          "questions": 30,
+          "questions": 2,
           "duration_minutes": 60,
           "schedule": {
             "type": "daily",
-            "startDate": "2025-12-18",
-            "startTime": "17:00",
-            "endDate": "2025-12-31",
+            "startDate": "2026-01-29",
+            "startTime": "18:00",
+            "endDate": "2026-12-31",
             "endTime": "23:59",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
