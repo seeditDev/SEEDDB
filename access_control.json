@@ -15,6 +15,12 @@
           "url": "/mcqs/Hackathon/test1.json",
           "display_order": 1
         },
+        "qwe": {
+          "id": "MA008",
+          "name": "QWE",
+          "url": "ASDA",
+          "display_order": 1
+        },
         "assessment_1_-_(cse,it,csbs)": {
           "id": "MA002",
           "name": "Assessment 1 - (CSE,IT,CSBS)",
@@ -70,6 +76,16 @@
           "url": "/mcqs/Hackathon/test3.json",
           "display_order": 7,
           "passkey": "987654",
+          "difficulty": "Medium",
+          "questions": 30,
+          "duration_minutes": 60
+        },
+        "qweqwe": {
+          "id": "MA009",
+          "name": "QWEQWE",
+          "url": "WDWD",
+          "display_order": 8,
+          "passkey": "123",
           "difficulty": "Medium",
           "questions": 30,
           "duration_minutes": 60
