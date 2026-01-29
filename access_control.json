@@ -279,6 +279,16 @@
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
           }
+        },
+        "weekly_assessment_-_2k28": {
+          "id": "A009",
+          "name": "Weekly Assessment - 2K28",
+          "url": "https://www.hackerrank.com/weekly-assess-1-2028-kite",
+          "display_order": 8,
+          "passkey": "123456",
+          "difficulty": "Medium",
+          "questions": 30,
+          "duration_minutes": 60
         }
       }
     }
