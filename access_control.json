@@ -274,7 +274,69 @@
     }
   },
   "access_control": {
-    "colleges": {},
+    "colleges": {
+      "KITE": {
+        "2K26": {
+          "CIVIL": {
+            "allowed_modules": []
+          },
+          "MECH": {
+            "allowed_modules": []
+          },
+          "EEE": {
+            "allowed_modules": []
+          },
+          "ECE": {
+            "allowed_modules": []
+          },
+          "CSE": {
+            "allowed_modules": []
+          },
+          "IT": {
+            "allowed_modules": []
+          },
+          "AIDS": {
+            "allowed_modules": []
+          },
+          "AIML": {
+            "allowed_modules": []
+          },
+          "CSBS": {
+            "allowed_modules": []
+          },
+          "CSD": {
+            "allowed_modules": []
+          },
+          "MECHATRONICS": {
+            "allowed_modules": []
+          },
+          "CYBER": {
+            "allowed_modules": []
+          },
+          "IOT": {
+            "allowed_modules": []
+          },
+          "CLOUD": {
+            "allowed_modules": []
+          },
+          "ETC": {
+            "allowed_modules": []
+          },
+          "BCOM_CA": {
+            "allowed_modules": []
+          },
+          "BSC_CS": {
+            "allowed_modules": []
+          },
+          "BCA": {
+            "allowed_modules": []
+          },
+          "MCA": {
+            "allowed_modules": []
+          }
+        }
+      }
+    },
     "assessment_statuses": [
       "scheduled",
       "in_progress",
