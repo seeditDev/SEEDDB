@@ -25,16 +25,6 @@
           "questions": 30,
           "duration_minutes": 30
         },
-        "weekly_assessment": {
-          "id": "MA003",
-          "name": "Weekly Assessment",
-          "url": "/mcqs/Hackathon/test3.json",
-          "display_order": 3,
-          "passkey": "234567",
-          "difficulty": "Medium",
-          "questions": 30,
-          "duration_minutes": 30
-        },
         "pre-assessment_test": {
           "id": "MA004",
           "name": "Pre-Assessment Test",
@@ -63,6 +53,26 @@
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
           }
+        },
+        "weekly_assessment_-_2k27": {
+          "id": "MA006",
+          "name": "Weekly Assessment - 2K27",
+          "url": "/mcqs/Hackathon/test3.json",
+          "display_order": 6,
+          "passkey": "987654",
+          "difficulty": "Medium",
+          "questions": 30,
+          "duration_minutes": 60
+        },
+        "weekly_assessment_-_2k28": {
+          "id": "MA007",
+          "name": "Weekly Assessment - 2K28",
+          "url": "/mcqs/Hackathon/test3.json",
+          "display_order": 7,
+          "passkey": "987654",
+          "difficulty": "Medium",
+          "questions": 30,
+          "duration_minutes": 60
         }
       }
     },
