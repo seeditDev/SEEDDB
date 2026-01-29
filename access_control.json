@@ -146,9 +146,9 @@
           "questions": 30,
           "duration_minutes": 90
         },
-        "daily_assessments": {
+        "daily_coding_challenge_-2027": {
           "id": "A005",
-          "name": "Daily Assessments",
+          "name": "Daily Coding Challenge -2027",
           "url": "https://www.hackerrank.com/daily-coding-challenge-2027",
           "display_order": 1,
           "passkey": "123456",
@@ -247,6 +247,25 @@
             "startTime": "07:55",
             "endDate": "2026-01-28",
             "endTime": "20:00",
+            "daysOfWeek": [],
+            "timezone": "Asia/Kolkata"
+          }
+        },
+        "daily_coding_challenge_-2028": {
+          "id": "CA013",
+          "name": "Daily Coding Challenge -2028",
+          "url": "https://www.hackerrank.com/daily-coding-challenge-kite-2028",
+          "display_order": 7,
+          "passkey": "987654",
+          "difficulty": "Medium",
+          "questions": 2,
+          "duration_minutes": 60,
+          "schedule": {
+            "type": "daily",
+            "startDate": "2026-01-29",
+            "startTime": "18:00",
+            "endDate": "2026-12-31",
+            "endTime": "23:59",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
           }
