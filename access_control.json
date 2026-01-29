@@ -278,27 +278,92 @@
       "KITE": {
         "2K27": {
           "ECE": {
-            "allowed_modules": [],
+            "allowed_modules": [
+              "F001",
+              "F002",
+              "F003",
+              "F004",
+              "F005",
+              "F006",
+              "F007",
+              "F008",
+              "F009",
+              "F010",
+              "CA001",
+              "CA002"
+            ],
             "batch_start": "2026-01-29",
             "batch_end": "2027-03-29"
           },
           "CSE": {
-            "allowed_modules": [],
+            "allowed_modules": [
+              "F001",
+              "F002",
+              "F003",
+              "F004",
+              "F005",
+              "F006",
+              "F007",
+              "F008",
+              "F009",
+              "F010",
+              "CA001",
+              "CA002"
+            ],
             "batch_start": "2026-01-29",
             "batch_end": "2027-03-29"
           },
           "IT": {
-            "allowed_modules": [],
+            "allowed_modules": [
+              "F001",
+              "F002",
+              "F003",
+              "F004",
+              "F005",
+              "F006",
+              "F007",
+              "F008",
+              "F009",
+              "F010",
+              "CA001",
+              "CA002"
+            ],
             "batch_start": "2026-01-29",
             "batch_end": "2027-03-29"
           },
           "AIDS": {
-            "allowed_modules": [],
+            "allowed_modules": [
+              "F001",
+              "F002",
+              "F003",
+              "F004",
+              "F005",
+              "F006",
+              "F007",
+              "F008",
+              "F009",
+              "F010",
+              "CA001",
+              "CA002"
+            ],
             "batch_start": "2026-01-29",
             "batch_end": "2027-03-29"
           },
           "CSBS": {
-            "allowed_modules": [],
+            "allowed_modules": [
+              "F001",
+              "F002",
+              "F003",
+              "F004",
+              "F005",
+              "F006",
+              "F007",
+              "F008",
+              "F009",
+              "F010",
+              "CA001",
+              "CA002"
+            ],
             "batch_start": "2026-01-29",
             "batch_end": "2027-03-29"
           }
