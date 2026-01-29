@@ -314,11 +314,6 @@
             "batch_start": "2026-01-29",
             "batch_end": "2028-03-29"
           },
-          "EEE": {
-            "allowed_modules": [],
-            "batch_start": "2026-01-29",
-            "batch_end": "2028-03-29"
-          },
           "ECE": {
             "allowed_modules": [],
             "batch_start": "2026-01-29",
