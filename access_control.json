@@ -379,11 +379,6 @@
             "batch_start": "2026-01-29",
             "batch_end": "2028-03-29"
           },
-          "BCOM_CA": {
-            "allowed_modules": [],
-            "batch_start": "2026-01-29",
-            "batch_end": "2028-03-29"
-          },
           "BSC_CS": {
             "allowed_modules": [],
             "batch_start": "2026-01-29",
