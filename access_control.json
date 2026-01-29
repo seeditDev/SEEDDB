@@ -302,11 +302,6 @@
             "batch_start": "2026-01-29",
             "batch_end": "2027-03-29"
           },
-          "AIML": {
-            "allowed_modules": [],
-            "batch_start": "2026-01-29",
-            "batch_end": "2027-03-29"
-          },
           "CSBS": {
             "allowed_modules": [],
             "batch_start": "2026-01-29",
