@@ -10,13 +10,13 @@
       "display_order": 9,
       "modules": {
         "techninal_mcqs_1": {
-          "id": "A001",
+          "id": "MA001",
           "name": "Techninal MCQs 1",
           "url": "/mcqs/Hackathon/test1.json",
           "display_order": 1
         },
         "assessment_1_-_(cse,it,csbs)": {
-          "id": "A002",
+          "id": "MA002",
           "name": "Assessment 1 - (CSE,IT,CSBS)",
           "url": "/mcqs/Hackathon/test2.json",
           "display_order": 2,
@@ -26,7 +26,7 @@
           "duration_minutes": 30
         },
         "weekly_assessment": {
-          "id": "A003",
+          "id": "MA003",
           "name": "Weekly Assessment",
           "url": "/mcqs/Hackathon/test3.json",
           "display_order": 3,
@@ -133,12 +133,12 @@
       }
     },
     "assessments": {
-      "title": "Course Assessments",
+      "title": "Coding Assessments",
       "display_order": 4,
       "modules": {
         "weekly_assessment": {
-          "id": "A008",
-          "name": "Weekly Assessment",
+          "id": "CA001",
+          "name": "Weekly Assessment - 2027",
           "url": "https://www.hackerrank.com/mid-assess-1-2-2027-kite",
           "display_order": 0,
           "passkey": "234567",
@@ -147,7 +147,7 @@
           "duration_minutes": 90
         },
         "daily_coding_challenge_-2027": {
-          "id": "A005",
+          "id": "CA002",
           "name": "Daily Coding Challenge -2027",
           "url": "https://www.hackerrank.com/daily-coding-challenge-2027",
           "display_order": 1,
@@ -166,7 +166,7 @@
           }
         },
         "assessment_-_cse,it,csbs": {
-          "id": "A007",
+          "id": "CA003",
           "name": "Assessment - CSE,IT,CSBS",
           "url": "https://www.hackerrank.com/mid-assessment-1-2027",
           "display_order": 2,
@@ -185,7 +185,7 @@
           }
         },
         "pre-assessment_": {
-          "id": "CA009",
+          "id": "CA004",
           "name": "Pre-Assessment ",
           "url": "https://www.hackerrank.com/onboarding-kite-2028",
           "display_order": 3,
@@ -195,7 +195,7 @@
           "duration_minutes": 90
         },
         "elite_segregation_test_-_set_1": {
-          "id": "CA010",
+          "id": "CA005",
           "name": "ELITE SEGREGATION TEST - SET 1",
           "url": "https://www.hackerrank.com/elite-segregation-assessment-set1",
           "display_order": 4,
@@ -214,7 +214,7 @@
           }
         },
         "elite_segregation_test_-_set_2": {
-          "id": "CA011",
+          "id": "CA006",
           "name": "ELITE SEGREGATION TEST - SET 2",
           "url": "https://www.hackerrank.com/elite-segregation-assessment-set2",
           "display_order": 5,
@@ -233,7 +233,7 @@
           }
         },
         "assessment_1_-_2028": {
-          "id": "CA012",
+          "id": "CA007",
           "name": "Assessment 1 - 2028",
           "url": "https://www.hackerrank.com/assessment-1-kite-2028",
           "display_order": 6,
@@ -252,7 +252,7 @@
           }
         },
         "daily_coding_challenge_-2028": {
-          "id": "CA013",
+          "id": "CA008",
           "name": "Daily Coding Challenge -2028",
           "url": "https://www.hackerrank.com/daily-coding-challenge-kite-2028",
           "display_order": 7,
