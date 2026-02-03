@@ -529,6 +529,15 @@
             "allowed_modules": []
           }
         }
+      },
+      "KIT": {
+        "2K27": {
+          "CSE": {
+            "allowed_modules": [],
+            "batch_start": "",
+            "batch_end": ""
+          }
+        }
       }
     },
     "assessment_statuses": [
