@@ -164,16 +164,7 @@
           "passkey": "123456",
           "difficulty": "Medium",
           "questions": 2,
-          "duration_minutes": 60,
-          "schedule": {
-            "type": "daily",
-            "startDate": "2026-01-29",
-            "startTime": "18:00",
-            "endDate": "2026-12-31",
-            "endTime": "23:59",
-            "daysOfWeek": [],
-            "timezone": "Asia/Kolkata"
-          }
+          "duration_minutes": 60
         },
         "assessment_-_cse,it,csbs": {
           "id": "CA003",
@@ -269,16 +260,7 @@
           "passkey": "987654",
           "difficulty": "Medium",
           "questions": 2,
-          "duration_minutes": 60,
-          "schedule": {
-            "type": "daily",
-            "startDate": "2026-01-29",
-            "startTime": "18:00",
-            "endDate": "2026-12-31",
-            "endTime": "23:59",
-            "daysOfWeek": [],
-            "timezone": "Asia/Kolkata"
-          }
+          "duration_minutes": 60
         },
         "weekly_assessment_-_2k28": {
           "id": "CA009",
