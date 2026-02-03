@@ -73,6 +73,25 @@
           "difficulty": "Medium",
           "questions": 30,
           "duration_minutes": 60
+        },
+        "assessment_-_2": {
+          "id": "MA008",
+          "name": "Assessment - 2",
+          "url": "/mcqs/Hackathon/assessment2.json",
+          "display_order": 8,
+          "passkey": "987654",
+          "difficulty": "Medium",
+          "questions": 30,
+          "duration_minutes": 60,
+          "schedule": {
+            "type": "one_time",
+            "startDate": "2026-02-04",
+            "startTime": "01:30",
+            "endDate": "2026-02-04",
+            "endTime": "10:00",
+            "daysOfWeek": [],
+            "timezone": "Asia/Kolkata"
+          }
         }
       }
     },
