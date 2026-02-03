@@ -533,7 +533,9 @@
       "KIT": {
         "2K27": {
           "CSE": {
-            "allowed_modules": [],
+            "allowed_modules": [
+              "CA004"
+            ],
             "batch_start": "2026-02-03",
             "batch_end": "2027-03-03"
           }
