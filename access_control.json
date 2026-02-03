@@ -194,9 +194,9 @@
             "timezone": "Asia/Kolkata"
           }
         },
-        "pre-assessment_": {
+        "seed_onboarding_assessment_": {
           "id": "CA004",
-          "name": "Pre-Assessment ",
+          "name": "SEED Onboarding Assessment ",
           "url": "https://www.hackerrank.com/onboarding-kite-2028",
           "display_order": 3,
           "passkey": "123456",
