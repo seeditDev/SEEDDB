@@ -534,30 +534,22 @@
       "KIT": {
         "2K27": {
           "CSE": {
-            "allowed_modules": [
-              "CA004"
-            ],
+            "allowed_modules": [],
             "batch_start": "2026-02-03",
             "batch_end": "2027-03-03"
           },
           "AIDS": {
-            "allowed_modules": [
-              "CA004"
-            ],
+            "allowed_modules": [],
             "batch_start": "",
             "batch_end": ""
           },
           "AIML": {
-            "allowed_modules": [
-              "CA004"
-            ],
+            "allowed_modules": [],
             "batch_start": "",
             "batch_end": ""
           },
           "CSBS": {
-            "allowed_modules": [
-              "CA004"
-            ],
+            "allowed_modules": [],
             "batch_start": "",
             "batch_end": ""
           }
