@@ -84,6 +84,18 @@
     "Hackerrank ID": "mohammedsuraj098"
   },
   {
+    "Email": "kit27.ad34@gmail.com",
+    "Password": "711523BAD034@KIT",
+    "College": "KIT",
+    "Name": "MUTHU MADHESH",
+    "Role": "Student",
+    "Roll Number": "711523BAD034",
+    "Department": "AIDS",
+    "Year": "2K27",
+    "Hackerrank Mail": "kit27.ad34@gmail.com",
+    "Hackerrank ID": "kit27_ad34"
+  },
+  {
     "Email": "kit27.ad38@gmail.com",
     "Password": "711523BAD038@KIT",
     "College": "KIT",
@@ -300,7 +312,7 @@
     "Hackerrank ID": "kit27_am39"
   },
   {
-    "Email": "dbackam8@gmail.com",
+    "Email": "kit27.am10@gmail.com",
     "Password": "711523BAM010@KIT",
     "College": "KIT",
     "Name": "S DAVID BACKAM",
@@ -309,7 +321,7 @@
     "Department": "AIML",
     "Year": "2K27",
     "Hackerrank Mail": "dbackam8@gmail.com",
-    "Hackerrank ID": "dbackam8"
+    "Hackerrank ID": "@dbackam8"
   },
   {
     "Email": "kit27.am304@gmail.com",
@@ -336,6 +348,18 @@
     "Hackerrank ID": "kit27_am42"
   },
   {
+    "Email": "kit27.am43@gmail.com",
+    "Password": "711523BAM043@KIT",
+    "College": "KIT",
+    "Name": "SANDHIYA V S",
+    "Role": "Student",
+    "Roll Number": "711523BAM043",
+    "Department": "AIML",
+    "Year": "2K27",
+    "Hackerrank Mail": "vssandhiya2711@gmail.com",
+    "Hackerrank ID": "vssandhiya2711"
+  },
+  {
     "Email": "kit27.am305@gmail.com",
     "Password": "711523BAM305@KIT",
     "College": "KIT",
@@ -346,6 +370,18 @@
     "Year": "2K27",
     "Hackerrank Mail": "sukisukant@gmail.com",
     "Hackerrank ID": "sukisukant"
+  },
+  {
+    "Email": "kit27.am59@gmail.com",
+    "Password": "711523BAM059@KIT",
+    "College": "KIT",
+    "Name": "VIKNESH T",
+    "Role": "Student",
+    "Roll Number": "711523BAM059",
+    "Department": "AIML",
+    "Year": "2K27",
+    "Hackerrank Mail": "kit27.am59@gmail.com",
+    "Hackerrank ID": "kit27_am591"
   },
   {
     "Email": "kit27.csbs02@gmail.com",
@@ -573,19 +609,31 @@
     "Department": "CSE",
     "Year": "2K27",
     "Hackerrank Mail": "nandhinirameshn66@gmail.com",
-    "Hackerrank ID": "nandhinirameshn"
+    "Hackerrank ID": "nandhinirameshn1"
   },
   {
-    "Email": "kit27.cse34@gmail.com",
-    "Password": "711523BCS034@KIT",
+    "Email": "kit27cse043@gmail.com",
+    "Password": "711523BCS043@KIT",
     "College": "KIT",
-    "Name": "NANDHINI R",
+    "Name": "RAJAGANAPATHI M",
     "Role": "Student",
-    "Roll Number": "711523BCS034",
+    "Roll Number": "711523BCS043",
     "Department": "CSE",
     "Year": "2K27",
-    "Hackerrank Mail": "nandhinirameshn66@gmail.com",
-    "Hackerrank ID": "nandhinirameshn1"
+    "Hackerrank Mail": "kit27cse043@gmail.com",
+    "Hackerrank ID": "kit27cse043"
+  },
+  {
+    "Email": "kit27.cse44@gamil.com",
+    "Password": "711523BCS044@KIT",
+    "College": "KIT",
+    "Name": "RITHIKA S",
+    "Role": "Student",
+    "Roll Number": "711523BCS044",
+    "Department": "CSE",
+    "Year": "2K27",
+    "Hackerrank Mail": "rithikas1105@gmail.com",
+    "Hackerrank ID": "rithikas1105"
   },
   {
     "Email": "kit27.cse40@gmail.com",
@@ -610,5 +658,53 @@
     "Year": "2K27",
     "Hackerrank Mail": "kit27.cse51@gmail.com",
     "Hackerrank ID": "kit27_cse51"
+  },
+  {
+    "Email": "temp1@kit.in",
+    "Password": "23CSKIT01@KIT",
+    "College": "KIT",
+    "Name": "TEMP USER1",
+    "Role": "Student",
+    "Roll Number": "23CSKIT01",
+    "Department": "CSE",
+    "Year": "2K27",
+    "Hackerrank Mail": "temp1@kit.in",
+    "Hackerrank ID": "temp_kit"
+  },
+  {
+    "Email": "temp2@kit.in",
+    "Password": "23CSKIT02@KIT",
+    "College": "KIT",
+    "Name": "TEMP USER2",
+    "Role": "Student",
+    "Roll Number": "23CSKIT02",
+    "Department": "CSE",
+    "Year": "2K27",
+    "Hackerrank Mail": "temp2@kit.in",
+    "Hackerrank ID": "temp_kit"
+  },
+  {
+    "Email": "temp3@kit.in",
+    "Password": "23CSKIT03@KIT",
+    "College": "KIT",
+    "Name": "TEMP USER3",
+    "Role": "Student",
+    "Roll Number": "23CSKIT03",
+    "Department": "CSE",
+    "Year": "2K27",
+    "Hackerrank Mail": "temp3@kit.in",
+    "Hackerrank ID": "temp_kit"
+  },
+  {
+    "Email": "temp4@kit.in",
+    "Password": "23CSKIT04@KIT",
+    "College": "KIT",
+    "Name": "TEMP USER4",
+    "Role": "Student",
+    "Roll Number": "23CSKIT04",
+    "Department": "CSE",
+    "Year": "2K27",
+    "Hackerrank Mail": "temp4@kit.in",
+    "Hackerrank ID": "temp_kit"
   }
 ]
