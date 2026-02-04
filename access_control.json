@@ -531,15 +531,7 @@
           }
         }
       },
-      "KIT": {
-        "2K27": {
-          "CSE": {
-            "allowed_modules": [],
-            "batch_start": "2026-02-03",
-            "batch_end": "2027-03-03"
-          }
-        }
-      }
+      "KIT": {}
     },
     "assessment_statuses": [
       "scheduled",
