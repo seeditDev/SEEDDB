@@ -531,7 +531,15 @@
           }
         }
       },
-      "KIT": {}
+      "KIT": {
+        "2K27": {
+          "CIVIL": {
+            "allowed_modules": [],
+            "batch_start": "2026-02-03",
+            "batch_end": "2027-03-03"
+          }
+        }
+      }
     },
     "assessment_statuses": [
       "scheduled",
