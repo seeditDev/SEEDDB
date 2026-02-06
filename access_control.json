@@ -530,61 +530,137 @@
         },
         "2K26": {
           "CIVIL": {
-            "allowed_modules": []
+            "allowed_modules": [
+              "CA012"
+            ],
+            "batch_start": "",
+            "batch_end": ""
           },
           "MECH": {
-            "allowed_modules": []
+            "allowed_modules": [
+              "CA012"
+            ],
+            "batch_start": "",
+            "batch_end": ""
           },
           "EEE": {
-            "allowed_modules": []
+            "allowed_modules": [
+              "CA012"
+            ],
+            "batch_start": "",
+            "batch_end": ""
           },
           "ECE": {
-            "allowed_modules": []
+            "allowed_modules": [
+              "CA012"
+            ],
+            "batch_start": "",
+            "batch_end": ""
           },
           "CSE": {
-            "allowed_modules": []
+            "allowed_modules": [
+              "CA012"
+            ],
+            "batch_start": "",
+            "batch_end": ""
           },
           "IT": {
-            "allowed_modules": []
+            "allowed_modules": [
+              "CA012"
+            ],
+            "batch_start": "",
+            "batch_end": ""
           },
           "AIDS": {
-            "allowed_modules": []
+            "allowed_modules": [
+              "CA012"
+            ],
+            "batch_start": "",
+            "batch_end": ""
           },
           "AIML": {
-            "allowed_modules": []
+            "allowed_modules": [
+              "CA012"
+            ],
+            "batch_start": "",
+            "batch_end": ""
           },
           "CSBS": {
-            "allowed_modules": []
+            "allowed_modules": [
+              "CA012"
+            ],
+            "batch_start": "",
+            "batch_end": ""
           },
           "CSD": {
-            "allowed_modules": []
+            "allowed_modules": [
+              "CA012"
+            ],
+            "batch_start": "",
+            "batch_end": ""
           },
           "MECHATRONICS": {
-            "allowed_modules": []
+            "allowed_modules": [
+              "CA012"
+            ],
+            "batch_start": "",
+            "batch_end": ""
           },
           "CYBER": {
-            "allowed_modules": []
+            "allowed_modules": [
+              "CA012"
+            ],
+            "batch_start": "",
+            "batch_end": ""
           },
           "IOT": {
-            "allowed_modules": []
+            "allowed_modules": [
+              "CA012"
+            ],
+            "batch_start": "",
+            "batch_end": ""
           },
           "CLOUD": {
-            "allowed_modules": []
+            "allowed_modules": [
+              "CA012"
+            ],
+            "batch_start": "",
+            "batch_end": ""
           },
           "ETC": {
-            "allowed_modules": []
+            "allowed_modules": [
+              "CA012"
+            ],
+            "batch_start": "",
+            "batch_end": ""
           },
           "BCOM_CA": {
-            "allowed_modules": []
+            "allowed_modules": [
+              "CA012"
+            ],
+            "batch_start": "",
+            "batch_end": ""
           },
           "BSC_CS": {
-            "allowed_modules": []
+            "allowed_modules": [
+              "CA012"
+            ],
+            "batch_start": "",
+            "batch_end": ""
           },
           "BCA": {
-            "allowed_modules": []
+            "allowed_modules": [
+              "CA012"
+            ],
+            "batch_start": "",
+            "batch_end": ""
           },
           "MCA": {
-            "allowed_modules": []
+            "allowed_modules": [
+              "CA012"
+            ],
+            "batch_start": "",
+            "batch_end": ""
           }
         }
       },
