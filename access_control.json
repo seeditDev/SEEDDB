@@ -185,6 +185,25 @@
           "questions": 2,
           "duration_minutes": 60
         },
+        "kit_java_assessment": {
+          "id": "CA013",
+          "name": "KIT JAVA ASSESSMENT",
+          "url": "https://www.hackerrank.com/kite26-assessment-set1",
+          "display_order": 1,
+          "passkey": "123456",
+          "difficulty": "Medium",
+          "questions": 5,
+          "duration_minutes": 60,
+          "schedule": {
+            "type": "one_time",
+            "startDate": "2026-02-09",
+            "startTime": "14:45",
+            "endDate": "2026-02-09",
+            "endTime": "17:30",
+            "daysOfWeek": [],
+            "timezone": "Asia/Kolkata"
+          }
+        },
         "assessment_-_cse,it,csbs": {
           "id": "CA003",
           "name": "Assessment - CSE,IT,CSBS",
