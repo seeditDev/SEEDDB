@@ -204,6 +204,16 @@
             "timezone": "Asia/Kolkata"
           }
         },
+        "kit_day_2_-_java": {
+          "id": "CA014",
+          "name": "KIT Day 2 - JAVA",
+          "url": "https://www.hackerrank.com/mid-assessment-1-2027",
+          "display_order": 1,
+          "passkey": "123456",
+          "difficulty": "Medium",
+          "questions": 30,
+          "duration_minutes": 60
+        },
         "assessment_-_cse,it,csbs": {
           "id": "CA003",
           "name": "Assessment - CSE,IT,CSBS",
