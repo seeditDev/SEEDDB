@@ -193,21 +193,22 @@
           "passkey": "123456",
           "difficulty": "Medium",
           "questions": 5,
-          "duration_minutes": 60,
-          "schedule": {
-            "type": "one_time",
-            "startDate": "2026-02-09",
-            "startTime": "14:45",
-            "endDate": "2026-02-09",
-            "endTime": "17:30",
-            "daysOfWeek": [],
-            "timezone": "Asia/Kolkata"
-          }
+          "duration_minutes": 60
         },
         "kit_day_2_-_java": {
           "id": "CA014",
           "name": "KIT Day 2 - JAVA",
           "url": "https://www.hackerrank.com/mid-assessment-1-2027",
+          "display_order": 1,
+          "passkey": "123456",
+          "difficulty": "Medium",
+          "questions": 30,
+          "duration_minutes": 60
+        },
+        "kit_java_day_3": {
+          "id": "CA015",
+          "name": "KIT JAVA DAY 3",
+          "url": "https://www.hackerrank.com/kit-java-day3",
           "display_order": 1,
           "passkey": "123456",
           "difficulty": "Medium",
