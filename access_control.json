@@ -924,6 +924,15 @@
             "batch_end": "2027-05-04"
           }
         }
+      },
+      "-": {
+        "-": {
+          "-": {
+            "allowed_modules": [],
+            "batch_start": "",
+            "batch_end": ""
+          }
+        }
       }
     },
     "assessment_statuses": [
