@@ -197,9 +197,9 @@
           "schedule": {
             "type": "daily",
             "startDate": "2026-02-24",
-            "startTime": "14:30",
+            "startTime": "15:30",
             "endDate": "2026-03-31",
-            "endTime": "14:30",
+            "endTime": "17:30",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
           }
