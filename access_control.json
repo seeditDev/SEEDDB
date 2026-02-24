@@ -925,15 +925,6 @@
           }
         }
       },
-      "-": {
-        "-": {
-          "-": {
-            "allowed_modules": [],
-            "batch_start": "",
-            "batch_end": ""
-          }
-        }
-      }
     },
     "assessment_statuses": [
       "scheduled",
