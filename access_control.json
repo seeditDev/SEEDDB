@@ -334,6 +334,25 @@
             "timezone": "Asia/Kolkata"
           }
         },
+        "weekly_assessment_-_4_-_2027": {
+          "id": "CA023",
+          "name": "Weekly Assessment - 4 - 2027",
+          "url": "https://www.hackerrank.com/weekly-assessment-4-2027",
+          "display_order": 1,
+          "passkey": "123456",
+          "difficulty": "Medium",
+          "questions": 30,
+          "duration_minutes": 60,
+          "schedule": {
+            "type": "one_time",
+            "startDate": "2026-03-07",
+            "startTime": "09:00",
+            "endDate": "2026-03-08",
+            "endTime": "23:45",
+            "daysOfWeek": [],
+            "timezone": "Asia/Kolkata"
+          }
+        },
         "assessment_-_cse,it,csbs": {
           "id": "CA003",
           "name": "Assessment - CSE,IT,CSBS",
