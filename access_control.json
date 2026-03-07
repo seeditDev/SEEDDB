@@ -636,7 +636,7 @@
         "2K28": {
           "MECH": {
             "allowed_modules": [
-              "CA022",
+              "CA024",
               "CA008"
             ],
             "batch_start": "2026-01-29",
@@ -644,7 +644,7 @@
           },
           "ECE": {
             "allowed_modules": [
-              "CA022",
+              "CA024",
               "CA008"
             ],
             "batch_start": "2026-01-29",
@@ -652,7 +652,7 @@
           },
           "CSE": {
             "allowed_modules": [
-              "CA022",
+              "CA024",
               "CA008"
             ],
             "batch_start": "2026-01-29",
@@ -660,7 +660,7 @@
           },
           "IT": {
             "allowed_modules": [
-              "CA022",
+              "CA024",
               "CA008"
             ],
             "batch_start": "2026-01-29",
@@ -668,7 +668,7 @@
           },
           "AIDS": {
             "allowed_modules": [
-              "CA022",
+              "CA024",
               "CA008"
             ],
             "batch_start": "2026-01-29",
@@ -676,7 +676,7 @@
           },
           "AIML": {
             "allowed_modules": [
-              "CA022",
+              "CA024",
               "CA008"
             ],
             "batch_start": "2026-01-29",
@@ -684,7 +684,7 @@
           },
           "CSBS": {
             "allowed_modules": [
-              "CA022",
+              "CA024",
               "CA008"
             ],
             "batch_start": "2026-01-29",
@@ -692,7 +692,7 @@
           },
           "CYBER": {
             "allowed_modules": [
-              "CA022",
+              "CA024",
               "CA008"
             ],
             "batch_start": "2026-01-29",
