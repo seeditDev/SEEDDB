@@ -79,7 +79,7 @@
         "java_mcq_test_-3": {
           "id": "MA012",
           "name": "Java MCQ Test -3",
-          "url": "/mcqs/Hackathon/javatest2.json",
+          "url": "/mcqs/Hackathon/javatest3.json",
           "display_order": 1,
           "passkey": "123456",
           "difficulty": "Medium",
