@@ -152,6 +152,25 @@
             "timezone": "Asia/Kolkata"
           }
         },
+        "java_mcq_360_test_1": {
+          "id": "MA016",
+          "name": "Java MCQ 360 TEST 1",
+          "url": "/mcqs/Hackathon/JavaMCQ360.json",
+          "display_order": 1,
+          "passkey": "123456",
+          "difficulty": "Medium",
+          "questions": 360,
+          "duration_minutes": 150,
+          "schedule": {
+            "type": "one_time",
+            "startDate": "2026-03-14",
+            "startTime": "09:00",
+            "endDate": "2026-03-14",
+            "endTime": "17:00",
+            "daysOfWeek": [],
+            "timezone": "Asia/Kolkata"
+          }
+        },
         "assessment_1_-_(cse,it,csbs)": {
           "id": "MA002",
           "name": "Assessment 1 - (CSE,IT,CSBS)",
