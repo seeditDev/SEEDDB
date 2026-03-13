@@ -543,6 +543,44 @@
             "timezone": "Asia/Kolkata"
           }
         },
+        "weekly_assessment_-_5_-_2027": {
+          "id": "CA026",
+          "name": "Weekly Assessment - 5 - 2027",
+          "url": "https://www.hackerrank.com/weekly-assessment-5-2027",
+          "display_order": 1,
+          "passkey": "123456",
+          "difficulty": "Medium",
+          "questions": 5,
+          "duration_minutes": 150,
+          "schedule": {
+            "type": "one_time",
+            "startDate": "2026-03-13",
+            "startTime": "18:00",
+            "endDate": "2026-03-16",
+            "endTime": "23:45",
+            "daysOfWeek": [],
+            "timezone": "Asia/Kolkata"
+          }
+        },
+        "weekly_assessment_-_5_-_2028": {
+          "id": "CA027",
+          "name": "Weekly Assessment - 5 - 2028",
+          "url": "https://www.hackerrank.com/weekly-assessment-5-2028",
+          "display_order": 1,
+          "passkey": "987654",
+          "difficulty": "Medium",
+          "questions": 5,
+          "duration_minutes": 150,
+          "schedule": {
+            "type": "one_time",
+            "startDate": "2026-03-13",
+            "startTime": "18:00",
+            "endDate": "2026-03-16",
+            "endTime": "23:45",
+            "daysOfWeek": [],
+            "timezone": "Asia/Kolkata"
+          }
+        },
         "assessment_-_cse,it,csbs": {
           "id": "CA003",
           "name": "Assessment - CSE,IT,CSBS",
