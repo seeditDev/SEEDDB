@@ -58,20 +58,20 @@
           }
         },
         "java_mcq_test_-1": {
-          "id": "MA010",
+          "id": "MA017",
           "name": "Java MCQ Test -1",
-          "url": "/mcqs/Hackathon/javatest1.json",
+          "url": "/mcqs/Hackathon/javatest5.json",
           "display_order": 1,
           "passkey": "123456",
           "difficulty": "Medium",
-          "questions": 60,
+          "questions": 65,
           "duration_minutes": 30,
           "schedule": {
-            "type": "one_time",
-            "startDate": "2026-03-10",
+            "type": "daily",
+            "startDate": "2026-03-16",
             "startTime": "08:30",
-            "endDate": "2026-03-10",
-            "endTime": "10:15",
+            "endDate": "2026-03-16",
+            "endTime": "10:00",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
           }
