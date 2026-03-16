@@ -60,7 +60,7 @@
         "java_mcq_test_-1": {
           "id": "MA017",
           "name": "Java MCQ Test -1",
-          "url": "/mcqs/Hackathon/javatest5.json",
+          "url": "/mcqs/Hackathon/javatest1.json",
           "display_order": 1,
           "passkey": "123456",
           "difficulty": "Medium",
@@ -71,7 +71,7 @@
             "startDate": "2026-03-16",
             "startTime": "08:30",
             "endDate": "2026-03-16",
-            "endTime": "10:00",
+            "endTime": "23:45",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
           }
