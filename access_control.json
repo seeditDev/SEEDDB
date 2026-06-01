@@ -866,6 +866,16 @@
             "timezone": "Asia/Kolkata"
           }
         },
+        "2k28_sp_-_daily_test_11-06-2026": {
+          "id": "CA031",
+          "name": "2k28 SP - Daily Test 11-06-2026",
+          "url": "https://www.hackerrank.com/2k28-analysis-test",
+          "display_order": 1,
+          "passkey": "987654",
+          "difficulty": "Medium",
+          "questions": 5,
+          "duration_minutes": 30
+        },
         "assessment_-_cse,it,csbs": {
           "id": "CA003",
           "name": "Assessment - CSE,IT,CSBS",
