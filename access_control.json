@@ -380,6 +380,16 @@
             "timezone": "Asia/Kolkata"
           }
         },
+        "sp_-_aptitude_and_com_test": {
+          "id": "MA030",
+          "name": "SP - Aptitude  and COM test",
+          "url": "/mcqs/Hackathon/sp_test.json",
+          "display_order": 1,
+          "passkey": "987654",
+          "difficulty": "Medium",
+          "questions": 30,
+          "duration_minutes": 30
+        },
         "assessment_1_-_(cse,it,csbs)": {
           "id": "MA002",
           "name": "Assessment 1 - (CSE,IT,CSBS)",
