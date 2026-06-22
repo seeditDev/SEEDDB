@@ -390,6 +390,16 @@
           "questions": 30,
           "duration_minutes": 30
         },
+        "trail_1": {
+          "id": "MA031",
+          "name": "Trail 1",
+          "url": "/mcqs/Hackathon/javatest1.json",
+          "display_order": 1,
+          "passkey": "123456",
+          "difficulty": "Medium",
+          "questions": 30,
+          "duration_minutes": 60
+        },
         "assessment_1_-_(cse,it,csbs)": {
           "id": "MA002",
           "name": "Assessment 1 - (CSE,IT,CSBS)",
