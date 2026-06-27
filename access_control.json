@@ -918,13 +918,13 @@
             "type": "one_time",
             "startDate": "2026-03-13",
             "startTime": "18:00",
-            "endDate": "2026-03-16",
+            "endDate": "2027-03-16",
             "endTime": "23:45",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
           },
-          "proctored": false,
-          "maxViolations": 5
+          "proctored": true,
+          "maxViolations": 7
         },
         "weekly_assessment_-_5_-_2028": {
           "id": "CA027",
