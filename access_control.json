@@ -26,7 +26,9 @@
             "endTime": "10:30",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "technical_mcqs_1": {
           "id": "MA001",
@@ -36,7 +38,9 @@
           "passkey": "123456",
           "difficulty": "Medium",
           "questions": 30,
-          "duration_minutes": 60
+          "duration_minutes": 60,
+          "proctored": false,
+          "maxViolations": 5
         },
         "cadence_assessment_-1": {
           "id": "MA009",
@@ -55,7 +59,9 @@
             "endTime": "10:30",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "java_mcq_test_-1": {
           "id": "MA017",
@@ -74,7 +80,9 @@
             "endTime": "23:45",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "java_mcq_test_-2": {
           "id": "MA011",
@@ -93,7 +101,9 @@
             "endTime": "23:45",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "java_mcq_test_-3": {
           "id": "MA012",
@@ -112,7 +122,9 @@
             "endTime": "23:45",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "java_mcq_test_-3-1": {
           "id": "MA013",
@@ -131,7 +143,9 @@
             "endTime": "23:45",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "java_mcq_test_-_4": {
           "id": "MA014",
@@ -150,7 +164,9 @@
             "endTime": "09:30",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "java_mcq_360_test_1": {
           "id": "MA016",
@@ -169,7 +185,9 @@
             "endTime": "23:45",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "java_mcq_test_-5": {
           "id": "MA018",
@@ -188,7 +206,9 @@
             "endTime": "23:45",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "java_mcq_test_-_6": {
           "id": "MA019",
@@ -207,7 +227,9 @@
             "endTime": "10:00",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "time_and_work_-1_(easy)": {
           "id": "MA020",
@@ -226,7 +248,9 @@
             "endTime": "10:00",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "java_mcq_test_-7": {
           "id": "MA021",
@@ -245,7 +269,9 @@
             "endTime": "09:30",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "elite_mid_assessment_-_1_2027": {
           "id": "MA022",
@@ -264,7 +290,9 @@
             "endTime": "12:00",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "java_mcq_test_-8": {
           "id": "MA023",
@@ -283,7 +311,9 @@
             "endTime": "09:20",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "java_mcq_test_-9": {
           "id": "MA024",
@@ -302,7 +332,9 @@
             "endTime": "10:00",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "java_mcq_test_-10": {
           "id": "MA025",
@@ -321,7 +353,9 @@
             "endTime": "09:20",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "java_mcq_test_-11": {
           "id": "MA026",
@@ -340,7 +374,9 @@
             "endTime": "09:20",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "java_mcq360_-2": {
           "id": "MA028",
@@ -359,7 +395,9 @@
             "endTime": "23:45",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "c++_mcq_test_-1": {
           "id": "MA029",
@@ -378,7 +416,9 @@
             "endTime": "10:30",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "sp_-_aptitude_and_com_test": {
           "id": "MA030",
@@ -388,7 +428,9 @@
           "passkey": "987654",
           "difficulty": "Medium",
           "questions": 30,
-          "duration_minutes": 30
+          "duration_minutes": 30,
+          "proctored": false,
+          "maxViolations": 5
         },
         "trail_1": {
           "id": "MA031",
@@ -398,7 +440,9 @@
           "passkey": "123456",
           "difficulty": "Medium",
           "questions": 30,
-          "duration_minutes": 60
+          "duration_minutes": 60,
+          "proctored": false,
+          "maxViolations": 5
         },
         "assessment_1_-_(cse,it,csbs)": {
           "id": "MA002",
@@ -408,7 +452,9 @@
           "passkey": "987654",
           "difficulty": "Medium",
           "questions": 30,
-          "duration_minutes": 30
+          "duration_minutes": 30,
+          "proctored": false,
+          "maxViolations": 5
         },
         "pre-assessment_test": {
           "id": "MA004",
@@ -418,7 +464,9 @@
           "passkey": "123456",
           "difficulty": "Medium",
           "questions": 30,
-          "duration_minutes": 60
+          "duration_minutes": 60,
+          "proctored": false,
+          "maxViolations": 5
         },
         "assessment_-_1": {
           "id": "MA005",
@@ -437,7 +485,9 @@
             "endTime": "20:00",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "weekly_assessment_-_2k27": {
           "id": "MA006",
@@ -447,7 +497,9 @@
           "passkey": "987654",
           "difficulty": "Medium",
           "questions": 30,
-          "duration_minutes": 60
+          "duration_minutes": 60,
+          "proctored": false,
+          "maxViolations": 5
         },
         "weekly_assessment_-_2k28": {
           "id": "MA007",
@@ -457,7 +509,9 @@
           "passkey": "987654",
           "difficulty": "Medium",
           "questions": 30,
-          "duration_minutes": 60
+          "duration_minutes": 60,
+          "proctored": false,
+          "maxViolations": 5
         },
         "assessment_-_2": {
           "id": "MA008",
@@ -476,7 +530,9 @@
             "endTime": "22:00",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "java_weekly_assessment_-6": {
           "id": "MA027",
@@ -495,7 +551,9 @@
             "endTime": "23:45",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         }
       }
     },
@@ -577,7 +635,9 @@
           "passkey": "234567",
           "difficulty": "Medium",
           "questions": 30,
-          "duration_minutes": 90
+          "duration_minutes": 90,
+          "proctored": false,
+          "maxViolations": 5
         },
         "elite_test_-1_": {
           "id": "CA017",
@@ -587,7 +647,9 @@
           "passkey": "123456",
           "difficulty": "Medium",
           "questions": 30,
-          "duration_minutes": 60
+          "duration_minutes": 60,
+          "proctored": false,
+          "maxViolations": 5
         },
         "elite_2026_eod_assessment": {
           "id": "CA018",
@@ -606,7 +668,9 @@
             "endTime": "17:45",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "weekly_assessment_3-_2027": {
           "id": "CA020",
@@ -625,7 +689,9 @@
             "endTime": "23:45",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "daily_coding_challenge_-2027": {
           "id": "CA002",
@@ -635,7 +701,9 @@
           "passkey": "123456",
           "difficulty": "Medium",
           "questions": 2,
-          "duration_minutes": 60
+          "duration_minutes": 60,
+          "proctored": false,
+          "maxViolations": 5
         },
         "kit_java_assessment": {
           "id": "CA013",
@@ -645,7 +713,9 @@
           "passkey": "123456",
           "difficulty": "Medium",
           "questions": 5,
-          "duration_minutes": 60
+          "duration_minutes": 60,
+          "proctored": false,
+          "maxViolations": 5
         },
         "kit_day_2_-_java": {
           "id": "CA014",
@@ -655,7 +725,9 @@
           "passkey": "123456",
           "difficulty": "Medium",
           "questions": 30,
-          "duration_minutes": 60
+          "duration_minutes": 60,
+          "proctored": false,
+          "maxViolations": 5
         },
         "kit_java_day_3": {
           "id": "CA015",
@@ -665,7 +737,9 @@
           "passkey": "123456",
           "difficulty": "Medium",
           "questions": 30,
-          "duration_minutes": 60
+          "duration_minutes": 60,
+          "proctored": false,
+          "maxViolations": 5
         },
         "kit_-_java_day4": {
           "id": "CA016",
@@ -675,7 +749,9 @@
           "passkey": "123456",
           "difficulty": "Medium",
           "questions": 30,
-          "duration_minutes": 60
+          "duration_minutes": 60,
+          "proctored": false,
+          "maxViolations": 5
         },
         "assessment_4_-_2028": {
           "id": "CA019",
@@ -694,7 +770,9 @@
             "endTime": "13:03",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "weekly_assessment_3_-_2028": {
           "id": "CA021",
@@ -713,7 +791,9 @@
             "endTime": "23:45",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "assessment_5_-_2028": {
           "id": "CA022",
@@ -732,7 +812,9 @@
             "endTime": "10:10",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "weekly_assessment_-_4_-_2027": {
           "id": "CA023",
@@ -751,7 +833,9 @@
             "endTime": "23:45",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "weekly_assessment_-_4-_2028": {
           "id": "CA024",
@@ -770,7 +854,9 @@
             "endTime": "23:45",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "assessment_6_-_2028": {
           "id": "CA025",
@@ -789,7 +875,9 @@
             "endTime": "10:00",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "weekly_assessment_-_5_-_2027": {
           "id": "CA026",
@@ -808,7 +896,9 @@
             "endTime": "23:45",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "weekly_assessment_-_5_-_2028": {
           "id": "CA027",
@@ -827,7 +917,9 @@
             "endTime": "23:45",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "assessment_7_-_2028": {
           "id": "CA028",
@@ -846,7 +938,9 @@
             "endTime": "10:00",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "elite_mid_assessment_-1_2027": {
           "id": "CA029",
@@ -865,7 +959,9 @@
             "endTime": "23:59",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "assessment_8_-_2028": {
           "id": "CA030",
@@ -884,7 +980,9 @@
             "endTime": "10:30",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "2k28_sp_-_daily_test_11-06-2026": {
           "id": "CA031",
@@ -894,7 +992,9 @@
           "passkey": "987654",
           "difficulty": "Medium",
           "questions": 5,
-          "duration_minutes": 30
+          "duration_minutes": 30,
+          "proctored": false,
+          "maxViolations": 5
         },
         "assessment_-_cse,it,csbs": {
           "id": "CA003",
@@ -913,7 +1013,9 @@
             "endTime": "12:10",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "seed_onboarding_assessment_": {
           "id": "CA004",
@@ -923,7 +1025,9 @@
           "passkey": "123456",
           "difficulty": "Medium",
           "questions": 30,
-          "duration_minutes": 90
+          "duration_minutes": 90,
+          "proctored": false,
+          "maxViolations": 5
         },
         "elite_segregation_test_-_set_1": {
           "id": "CA005",
@@ -942,7 +1046,9 @@
             "endTime": "12:30",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "elite_segregation_test_-_set_2": {
           "id": "CA006",
@@ -961,7 +1067,9 @@
             "endTime": "12:30",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "assessment_3_-_2028": {
           "id": "CA007",
@@ -980,7 +1088,9 @@
             "endTime": "23:59",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "daily_coding_challenge_-2028": {
           "id": "CA008",
@@ -990,7 +1100,9 @@
           "passkey": "987654",
           "difficulty": "Medium",
           "questions": 2,
-          "duration_minutes": 60
+          "duration_minutes": 60,
+          "proctored": false,
+          "maxViolations": 5
         },
         "weekly_assessment_-_2k28": {
           "id": "CA009",
@@ -1000,7 +1112,9 @@
           "passkey": "123456",
           "difficulty": "Medium",
           "questions": 30,
-          "duration_minutes": 60
+          "duration_minutes": 60,
+          "proctored": false,
+          "maxViolations": 5
         },
         "weekly_assessment_-_1_-_2027": {
           "id": "CA010",
@@ -1019,7 +1133,9 @@
             "endTime": "23:50",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "weekly_assessment-1-2028": {
           "id": "CA011",
@@ -1038,7 +1154,9 @@
             "endTime": "23:59",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         },
         "weekly_assessment-1-2026": {
           "id": "CA012",
@@ -1057,7 +1175,9 @@
             "endTime": "23:45",
             "daysOfWeek": [],
             "timezone": "Asia/Kolkata"
-          }
+          },
+          "proctored": false,
+          "maxViolations": 5
         }
       }
     }
