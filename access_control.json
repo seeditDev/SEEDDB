@@ -498,7 +498,7 @@
           "difficulty": "Medium",
           "questions": 30,
           "duration_minutes": 60,
-          "proctored": false,
+          "proctored": true,
           "maxViolations": 5
         },
         "weekly_assessment_-_2k28": {
@@ -554,6 +554,32 @@
           },
           "proctored": false,
           "maxViolations": 5
+        },
+        "dummy_assessment_1": {
+          "id": "MA098",
+          "name": "Dummy Assessment 1",
+          "url": "/mcqs/Hackathon/dummy_assessment_1.json",
+          "display_order": 98,
+          "passkey": "123456",
+          "difficulty": "Easy",
+          "questions": 2,
+          "duration_minutes": 10,
+          "proctored": true,
+          "maxViolations": 5,
+          "isPremium": false
+        },
+        "dummy_assessment_2": {
+          "id": "MA099",
+          "name": "Dummy Assessment 2",
+          "url": "/mcqs/Hackathon/dummy_assessment_2.json",
+          "display_order": 99,
+          "passkey": "123456",
+          "difficulty": "Easy",
+          "questions": 2,
+          "duration_minutes": 10,
+          "proctored": true,
+          "maxViolations": 5,
+          "isPremium": false
         }
       }
     },
@@ -1218,7 +1244,9 @@
               "MA024",
               "MA025",
               "MA026",
-              "MA028"
+              "MA028",
+              "dummy_assessment_1",
+              "dummy_assessment_2"
             ],
             "batch_start": "2026-01-29",
             "batch_end": "2027-03-29"
@@ -1255,7 +1283,9 @@
               "MA024",
               "MA025",
               "MA026",
-              "MA028"
+              "MA028",
+              "dummy_assessment_1",
+              "dummy_assessment_2"
             ],
             "batch_start": "2026-01-29",
             "batch_end": "2027-03-29"
@@ -1292,7 +1322,9 @@
               "MA024",
               "MA025",
               "MA026",
-              "MA028"
+              "MA028",
+              "dummy_assessment_1",
+              "dummy_assessment_2"
             ],
             "batch_start": "2026-01-29",
             "batch_end": "2027-03-29"
@@ -1329,7 +1361,9 @@
               "MA024",
               "MA025",
               "MA026",
-              "MA028"
+              "MA028",
+              "dummy_assessment_1",
+              "dummy_assessment_2"
             ],
             "batch_start": "2026-01-29",
             "batch_end": "2027-03-29"
@@ -1366,7 +1400,9 @@
               "MA024",
               "MA025",
               "MA026",
-              "MA028"
+              "MA028",
+              "dummy_assessment_1",
+              "dummy_assessment_2"
             ],
             "batch_start": "2026-01-29",
             "batch_end": "2027-03-29"
@@ -1597,7 +1633,11 @@
               "CA013",
               "CA014",
               "CA015",
-              "CA016"
+              "CA016",
+              "dummy_assessment_1",
+              "dummy_assessment_2",
+              "CA002",
+              "CA026"
             ],
             "batch_start": "2026-02-03",
             "batch_end": "2027-05-04"
@@ -1607,7 +1647,11 @@
               "CA013",
               "CA014",
               "CA015",
-              "CA016"
+              "CA016",
+              "dummy_assessment_1",
+              "dummy_assessment_2",
+              "CA002",
+              "CA026"
             ],
             "batch_start": "2026-02-03",
             "batch_end": "2027-05-04"
@@ -1617,7 +1661,11 @@
               "CA013",
               "CA014",
               "CA015",
-              "CA016"
+              "CA016",
+              "dummy_assessment_1",
+              "dummy_assessment_2",
+              "CA002",
+              "CA026"
             ],
             "batch_start": "2026-02-03",
             "batch_end": "2027-05-04"
@@ -1627,7 +1675,11 @@
               "CA013",
               "CA014",
               "CA015",
-              "CA016"
+              "CA016",
+              "dummy_assessment_1",
+              "dummy_assessment_2",
+              "CA002",
+              "CA026"
             ],
             "batch_start": "2026-02-03",
             "batch_end": "2027-05-04"
@@ -1637,7 +1689,11 @@
               "CA013",
               "CA014",
               "CA015",
-              "CA016"
+              "CA016",
+              "dummy_assessment_1",
+              "dummy_assessment_2",
+              "CA002",
+              "CA026"
             ],
             "batch_start": "2026-02-03",
             "batch_end": "2027-05-04"
@@ -1647,7 +1703,11 @@
               "CA013",
               "CA014",
               "CA015",
-              "CA016"
+              "CA016",
+              "dummy_assessment_1",
+              "dummy_assessment_2",
+              "CA002",
+              "CA026"
             ],
             "batch_start": "2026-02-03",
             "batch_end": "2027-05-04"
@@ -1657,7 +1717,11 @@
               "CA013",
               "CA014",
               "CA015",
-              "CA016"
+              "CA016",
+              "dummy_assessment_1",
+              "dummy_assessment_2",
+              "CA002",
+              "CA026"
             ],
             "batch_start": "2026-02-03",
             "batch_end": "2027-05-04"
@@ -1667,7 +1731,11 @@
               "CA013",
               "CA014",
               "CA015",
-              "CA016"
+              "CA016",
+              "dummy_assessment_1",
+              "dummy_assessment_2",
+              "CA002",
+              "CA026"
             ],
             "batch_start": "2026-02-03",
             "batch_end": "2027-05-04"
@@ -1677,7 +1745,11 @@
               "CA013",
               "CA014",
               "CA015",
-              "CA016"
+              "CA016",
+              "dummy_assessment_1",
+              "dummy_assessment_2",
+              "CA002",
+              "CA026"
             ],
             "batch_start": "2026-02-03",
             "batch_end": "2027-05-04"
@@ -1687,7 +1759,11 @@
               "CA013",
               "CA014",
               "CA015",
-              "CA016"
+              "CA016",
+              "dummy_assessment_1",
+              "dummy_assessment_2",
+              "CA002",
+              "CA026"
             ],
             "batch_start": "2026-02-03",
             "batch_end": "2027-05-04"
@@ -1697,7 +1773,11 @@
               "CA013",
               "CA014",
               "CA015",
-              "CA016"
+              "CA016",
+              "dummy_assessment_1",
+              "dummy_assessment_2",
+              "CA002",
+              "CA026"
             ],
             "batch_start": "2026-02-03",
             "batch_end": "2027-05-04"
@@ -1707,7 +1787,11 @@
               "CA013",
               "CA014",
               "CA015",
-              "CA016"
+              "CA016",
+              "dummy_assessment_1",
+              "dummy_assessment_2",
+              "CA002",
+              "CA026"
             ],
             "batch_start": "2026-02-03",
             "batch_end": "2027-05-04"
@@ -1717,7 +1801,11 @@
               "CA013",
               "CA014",
               "CA015",
-              "CA016"
+              "CA016",
+              "dummy_assessment_1",
+              "dummy_assessment_2",
+              "CA002",
+              "CA026"
             ],
             "batch_start": "2026-02-03",
             "batch_end": "2027-05-04"
@@ -1727,7 +1815,11 @@
               "CA013",
               "CA014",
               "CA015",
-              "CA016"
+              "CA016",
+              "dummy_assessment_1",
+              "dummy_assessment_2",
+              "CA002",
+              "CA026"
             ],
             "batch_start": "2026-02-03",
             "batch_end": "2027-05-04"
@@ -1737,7 +1829,11 @@
               "CA013",
               "CA014",
               "CA015",
-              "CA016"
+              "CA016",
+              "dummy_assessment_1",
+              "dummy_assessment_2",
+              "CA002",
+              "CA026"
             ],
             "batch_start": "2026-02-03",
             "batch_end": "2027-05-04"
@@ -1747,7 +1843,11 @@
               "CA013",
               "CA014",
               "CA015",
-              "CA016"
+              "CA016",
+              "dummy_assessment_1",
+              "dummy_assessment_2",
+              "CA002",
+              "CA026"
             ],
             "batch_start": "2026-02-03",
             "batch_end": "2027-05-04"
@@ -1757,7 +1857,11 @@
               "CA013",
               "CA014",
               "CA015",
-              "CA016"
+              "CA016",
+              "dummy_assessment_1",
+              "dummy_assessment_2",
+              "CA002",
+              "CA026"
             ],
             "batch_start": "2026-02-03",
             "batch_end": "2027-05-04"
@@ -1767,7 +1871,11 @@
               "CA013",
               "CA014",
               "CA015",
-              "CA016"
+              "CA016",
+              "dummy_assessment_1",
+              "dummy_assessment_2",
+              "CA002",
+              "CA026"
             ],
             "batch_start": "2026-02-03",
             "batch_end": "2027-05-04"
@@ -1777,7 +1885,11 @@
               "CA013",
               "CA014",
               "CA015",
-              "CA016"
+              "CA016",
+              "dummy_assessment_1",
+              "dummy_assessment_2",
+              "CA002",
+              "CA026"
             ],
             "batch_start": "2026-02-03",
             "batch_end": "2027-05-04"
