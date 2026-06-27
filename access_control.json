@@ -728,8 +728,8 @@
           "difficulty": "Medium",
           "questions": 2,
           "duration_minutes": 60,
-          "proctored": false,
-          "maxViolations": 5
+          "proctored": true,
+          "maxViolations": 7
         },
         "kit_java_assessment": {
           "id": "CA013",
