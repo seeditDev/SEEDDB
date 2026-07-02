@@ -15,7 +15,6 @@
     "assessments": {
       "title": "Coding Assessments",
       "display_order": 4,
-      "isPremium": false,
       "modules": {}
     },
     "mcqs": {
