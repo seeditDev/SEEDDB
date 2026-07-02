@@ -104,7 +104,9 @@
             "batch_end": "2027-05-02"
           },
           "AIDS": {
-            "allowed_modules": [],
+            "allowed_modules": [
+              "CA001"
+            ],
             "batch_start": "2026-07-02",
             "batch_end": "2027-05-02"
           },
