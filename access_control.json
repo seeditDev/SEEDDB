@@ -24,7 +24,107 @@
     }
   },
   "access_control": {
-    "colleges": {},
+    "colleges": {
+      "KITE": {
+        "2K27": {
+          "CIVIL": {
+            "allowed_modules": [],
+            "batch_start": "2026-07-02",
+            "batch_end": "2027-05-02"
+          },
+          "MECH": {
+            "allowed_modules": [],
+            "batch_start": "2026-07-02",
+            "batch_end": "2027-05-02"
+          },
+          "EEE": {
+            "allowed_modules": [],
+            "batch_start": "2026-07-02",
+            "batch_end": "2027-05-02"
+          },
+          "ECE": {
+            "allowed_modules": [],
+            "batch_start": "2026-07-02",
+            "batch_end": "2027-05-02"
+          },
+          "CSE": {
+            "allowed_modules": [],
+            "batch_start": "2026-07-02",
+            "batch_end": "2027-05-02"
+          },
+          "IT": {
+            "allowed_modules": [],
+            "batch_start": "2026-07-02",
+            "batch_end": "2027-05-02"
+          },
+          "AIDS": {
+            "allowed_modules": [],
+            "batch_start": "2026-07-02",
+            "batch_end": "2027-05-02"
+          },
+          "AIML": {
+            "allowed_modules": [],
+            "batch_start": "2026-07-02",
+            "batch_end": "2027-05-02"
+          },
+          "CSBS": {
+            "allowed_modules": [],
+            "batch_start": "2026-07-02",
+            "batch_end": "2027-05-02"
+          },
+          "CSD": {
+            "allowed_modules": [],
+            "batch_start": "2026-07-02",
+            "batch_end": "2027-05-02"
+          },
+          "MECHATRONICS": {
+            "allowed_modules": [],
+            "batch_start": "2026-07-02",
+            "batch_end": "2027-05-02"
+          },
+          "CYBER": {
+            "allowed_modules": [],
+            "batch_start": "2026-07-02",
+            "batch_end": "2027-05-02"
+          },
+          "IOT": {
+            "allowed_modules": [],
+            "batch_start": "2026-07-02",
+            "batch_end": "2027-05-02"
+          },
+          "CLOUD": {
+            "allowed_modules": [],
+            "batch_start": "2026-07-02",
+            "batch_end": "2027-05-02"
+          },
+          "ETC": {
+            "allowed_modules": [],
+            "batch_start": "2026-07-02",
+            "batch_end": "2027-05-02"
+          },
+          "BCOM_CA": {
+            "allowed_modules": [],
+            "batch_start": "2026-07-02",
+            "batch_end": "2027-05-02"
+          },
+          "BSC_CS": {
+            "allowed_modules": [],
+            "batch_start": "2026-07-02",
+            "batch_end": "2027-05-02"
+          },
+          "BCA": {
+            "allowed_modules": [],
+            "batch_start": "2026-07-02",
+            "batch_end": "2027-05-02"
+          },
+          "MCA": {
+            "allowed_modules": [],
+            "batch_start": "2026-07-02",
+            "batch_end": "2027-05-02"
+          }
+        }
+      }
+    },
     "assessment_statuses": [
       "scheduled",
       "in_progress",
