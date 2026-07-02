@@ -9,8 +9,54 @@
     "fundamentals": {
       "title": "Programming Fundamentals",
       "display_order": 1,
-      "isPremium": false,
-      "modules": {}
+      "modules": {
+        "basic_test": {
+          "id": "CA001",
+          "name": "basic test",
+          "url": "/a001",
+          "type": "mixed",
+          "display_order": 1,
+          "isAssessment": true,
+          "isPremium": false,
+          "passkey": "123456",
+          "proctored": false,
+          "maxViolations": 5,
+          "isMultiSection": true,
+          "sections": [
+            {
+              "sectionId": "sec_1",
+              "name": "APTI",
+              "type": "mcq",
+              "duration_minutes": 30,
+              "url": "/mcq/test1.json"
+            },
+            {
+              "sectionId": "sec_2",
+              "name": "verbal",
+              "type": "mcq",
+              "duration_minutes": 30,
+              "url": "/mcq/test2.json"
+            },
+            {
+              "sectionId": "sec_3",
+              "name": "coding",
+              "type": "coding",
+              "duration_minutes": 30,
+              "url": "/coding/test1.json"
+            }
+          ],
+          "duration_minutes": 90,
+          "schedule": {
+            "type": "one_time",
+            "startDate": "2026-07-02",
+            "startTime": "21:10",
+            "endDate": "2026-07-02",
+            "endTime": "23:12",
+            "daysOfWeek": [],
+            "timezone": "Asia/Kolkata"
+          }
+        }
+      }
     },
     "assessments": {
       "title": "Coding Assessments",
