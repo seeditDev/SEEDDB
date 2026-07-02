@@ -19,8 +19,7 @@
     },
     "mcqs": {
       "title": "MCQ Assessments",
-      "display_order": 9,
-      "isPremium": false,
+      "display_order": 3,
       "modules": {}
     }
   },
