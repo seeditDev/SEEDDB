@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "last_updated": "2026-07-02",
+    "cache_duration": "24h",
+    "description": "SEED-IT Platform Access Control Configuration. Shared format for seed-admin and seed-desktop."
+  },
+  "courses": {
+    "fundamentals": {
+      "title": "Programming Fundamentals",
+      "display_order": 1,
+      "isPremium": false,
+      "modules": {}
+    },
+    "assessments": {
+      "title": "Coding Assessments",
+      "display_order": 4,
+      "isPremium": false,
+      "modules": {}
+    },
+    "mcqs": {
+      "title": "MCQ Assessments",
+      "display_order": 9,
+      "isPremium": false,
+      "modules": {}
+    }
+  },
+  "access_control": {
+    "colleges": {},
+    "assessment_statuses": [
+      "scheduled",
+      "in_progress",
+      "completed",
+      "cancelled"
+    ]
+  }
+}
