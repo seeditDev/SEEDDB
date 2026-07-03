@@ -18,38 +18,18 @@
           "modules": {
             "AS001_T001": {
               "id": "AS001_T001",
-              "name": "Hexaware 1",
+              "name": "Hexaware -1",
               "description": "",
               "url": "/coding/as001-t001.json",
               "type": "coding",
               "display_order": 1,
               "duration_minutes": 90,
-              "questions": 5,
               "difficulty": "Medium",
               "proctored": false,
               "maxViolations": 5,
               "passkey": "123456",
               "isPremium": false,
-              "questionIds": [
-                "Q1002",
-                "Q1001",
-                "Q1003",
-                "Q1004",
-                "Q1005"
-              ],
-              "settings": {
-                "shuffleQuestions": false,
-                "shuffleOptions": false,
-                "allowLanguageSwitch": true,
-                "showResultAfterSubmit": true,
-                "allowedLanguages": [
-                  "C",
-                  "C++",
-                  "Java",
-                  "Python3"
-                ]
-              },
-              "sourceType": "custom"
+              "sourceType": "published"
             }
           }
         }
