@@ -65,7 +65,8 @@
         "2K27": {
           "ECE": {
             "allowed_modules": [
-              "AS001_T001"
+              "AS001_T001",
+              "M001"
             ],
             "batch_start": "2026-07-02",
             "batch_end": "2027-05-02"
