@@ -5,7 +5,21 @@
     "cache_duration": "24h",
     "description": "SEED-IT Platform Access Control Configuration. Shared format for seed-admin and seed-desktop."
   },
-  "courses": {},
+  "courses": {
+    "assessments": {
+      "title": "Coding Assessments",
+      "display_order": 10,
+      "subcourses": {
+        "AS001": {
+          "title": "Kite - Hexaware",
+          "description": "",
+          "type": "MOCK",
+          "display_order": 1,
+          "modules": {}
+        }
+      }
+    }
+  },
   "access_control": {
     "colleges": {
       "KITE": {
