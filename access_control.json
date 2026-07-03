@@ -34,6 +34,20 @@
           }
         }
       }
+    },
+    "hexaware_prep": {
+      "title": "Hexaware Prep",
+      "display_order": 2,
+      "isAssessment": false,
+      "modules": {
+        "codinghexaware": {
+          "id": "M001",
+          "name": "CodingHexaware",
+          "url": "/coding/as001-t001.json",
+          "type": "coding",
+          "display_order": 1
+        }
+      }
     }
   },
   "access_control": {
