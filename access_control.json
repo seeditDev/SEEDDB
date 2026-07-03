@@ -58,11 +58,6 @@
         }
       }
     },
-    "assessments": {
-      "title": "Coding Assessments",
-      "display_order": 2,
-      "modules": {}
-    },
     "mcqs": {
       "title": "MCQ Assessments",
       "display_order": 3,
