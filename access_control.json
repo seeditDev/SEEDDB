@@ -105,6 +105,19 @@
           "display_order": 2
         }
       }
+    },
+    "mcqs": {
+      "title": "MCQ Assessments",
+      "display_order": 10,
+      "subcourses": {
+        "AS001": {
+          "title": "Pseudo Test",
+          "description": "",
+          "type": "MOCK",
+          "display_order": 1,
+          "modules": {}
+        }
+      }
     }
   },
   "access_control": {
