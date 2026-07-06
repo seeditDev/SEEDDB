@@ -115,7 +115,32 @@
           "description": "",
           "type": "MOCK",
           "display_order": 1,
-          "modules": {}
+          "modules": {
+            "AS001_T001": {
+              "id": "AS001_T001",
+              "name": "MCQ -1",
+              "description": "",
+              "url": "/mcqs/technical-1.json",
+              "type": "mcq",
+              "display_order": 1,
+              "duration_minutes": 3,
+              "difficulty": "Medium",
+              "proctored": true,
+              "maxViolations": 5,
+              "passkey": "123456",
+              "isPremium": false,
+              "sourceType": "published",
+              "schedule": {
+                "type": "one_time",
+                "startDate": "2026-07-06",
+                "startTime": "22:09",
+                "endDate": "2026-07-09",
+                "endTime": "22:09",
+                "daysOfWeek": [],
+                "timezone": "Asia/Kolkata"
+              }
+            }
+          }
         }
       }
     }
