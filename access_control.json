@@ -55,6 +55,13 @@
           "url": "/coding/as001-t001.json",
           "type": "coding",
           "display_order": 1
+        },
+        "technical-1": {
+          "id": "M002",
+          "name": "Technical-1",
+          "url": "/mcqs/technical-1.json",
+          "type": "mcq",
+          "display_order": 2
         }
       }
     }
