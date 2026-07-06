@@ -39,6 +39,47 @@
                 "daysOfWeek": [],
                 "timezone": "Asia/Kolkata"
               }
+            },
+            "AS001_T002": {
+              "id": "AS001_T002",
+              "name": "HEXAWARE 2",
+              "description": "",
+              "url": "/mcqs/technical-1.json",
+              "isMultiSection": true,
+              "sections": [
+                {
+                  "sectionId": "AS001_T002_S1",
+                  "name": "Section 1",
+                  "type": "mcq",
+                  "url": "/mcqs/technical-1.json",
+                  "duration_minutes": 3
+                },
+                {
+                  "sectionId": "AS001_T002_S2",
+                  "name": "Section 2",
+                  "type": "coding",
+                  "url": "/coding/as001-t001.json",
+                  "duration_minutes": 5
+                }
+              ],
+              "type": "coding",
+              "display_order": 2,
+              "duration_minutes": 8,
+              "difficulty": "Medium",
+              "proctored": true,
+              "maxViolations": 5,
+              "passkey": "123456",
+              "isPremium": false,
+              "sourceType": "published",
+              "schedule": {
+                "type": "one_time",
+                "startDate": "2026-07-06",
+                "startTime": "20:26",
+                "endDate": "2026-07-10",
+                "endTime": "20:28",
+                "daysOfWeek": [],
+                "timezone": "Asia/Kolkata"
+              }
             }
           }
         }
