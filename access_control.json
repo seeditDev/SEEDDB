@@ -16,30 +16,6 @@
           "type": "MOCK",
           "display_order": 1,
           "modules": {
-            "AS001_T001": {
-              "id": "AS001_T001",
-              "name": "Hexaware - 1",
-              "description": "",
-              "url": "/coding/as001-t001.json",
-              "type": "coding",
-              "display_order": 1,
-              "duration_minutes": 90,
-              "difficulty": "Medium",
-              "proctored": false,
-              "maxViolations": 5,
-              "passkey": "123456",
-              "isPremium": false,
-              "sourceType": "published",
-              "schedule": {
-                "type": "one_time",
-                "startDate": "2026-07-03",
-                "startTime": "23:55",
-                "endDate": "2026-07-08",
-                "endTime": "02:53",
-                "daysOfWeek": [],
-                "timezone": "Asia/Kolkata"
-              }
-            },
             "AS001_T002": {
               "id": "AS001_T002",
               "name": "HEXAWARE 2",
