@@ -15,7 +15,70 @@
           "description": "",
           "type": "MOCK",
           "display_order": 1,
-          "modules": {}
+          "modules": {
+            "AS001_T001": {
+              "id": "AS001_T001",
+              "name": "Elite Test -1 ",
+              "description": "",
+              "url": "/mcqs/technical-1.json",
+              "isMultiSection": true,
+              "sections": [
+                {
+                  "sectionId": "AS001_T001_S1",
+                  "name": "Technical MCQ",
+                  "type": "mcq",
+                  "url": "/mcqs/technical-1.json",
+                  "duration_minutes": 5,
+                  "questionTimer": 30,
+                  "questionTimerList": "",
+                  "timerRestrictedSubmit": true,
+                  "forwardOnly": true
+                },
+                {
+                  "sectionId": "AS001_T001_S2",
+                  "name": "Aptitude",
+                  "type": "mcq",
+                  "url": "/mcqs/Hackathon/assessment1.json",
+                  "duration_minutes": 10,
+                  "questionTimer": 60,
+                  "questionTimerList": "",
+                  "timerRestrictedSubmit": true,
+                  "forwardOnly": true
+                },
+                {
+                  "sectionId": "AS001_T001_S3",
+                  "name": "Coding",
+                  "type": "coding",
+                  "url": "/coding/as001-t001.json",
+                  "duration_minutes": 30,
+                  "questionTimer": 900,
+                  "questionTimerList": "",
+                  "timerRestrictedSubmit": true,
+                  "forwardOnly": true
+                }
+              ],
+              "type": "coding",
+              "display_order": 1,
+              "duration_minutes": 45,
+              "difficulty": "Medium",
+              "proctored": true,
+              "audioProctored": true,
+              "maxViolations": 7,
+              "maxAudioViolations": 5,
+              "passkey": "123456",
+              "isPremium": false,
+              "sourceType": "published",
+              "schedule": {
+                "type": "none",
+                "startDate": "",
+                "startTime": "",
+                "endDate": "",
+                "endTime": "",
+                "daysOfWeek": [],
+                "timezone": "Asia/Kolkata"
+              }
+            }
+          }
         }
       }
     },
