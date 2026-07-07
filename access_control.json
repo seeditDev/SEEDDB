@@ -89,22 +89,7 @@
       "title": "Hexaware Prep",
       "display_order": 2,
       "isAssessment": false,
-      "modules": {
-        "codinghexaware": {
-          "id": "M001",
-          "name": "CodingHexaware",
-          "url": "/coding/as001-t001.json",
-          "type": "coding",
-          "display_order": 1
-        },
-        "technical-1": {
-          "id": "M002",
-          "name": "Technical-1",
-          "url": "/mcqs/technical-1.json",
-          "type": "mcq",
-          "display_order": 2
-        }
-      }
+      "modules": {}
     },
     "mcqs": {
       "title": "MCQ Assessments",
