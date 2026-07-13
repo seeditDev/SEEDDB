@@ -15,7 +15,34 @@
           "description": "",
           "type": "PLACEMENT",
           "display_order": 1,
-          "modules": {}
+          "modules": {
+            "AS001_T001": {
+              "id": "AS001_T001",
+              "name": "Coding Demo 1",
+              "description": "",
+              "url": "/coding/testbank/demo-coding-1.json",
+              "type": "coding",
+              "display_order": 1,
+              "duration_minutes": 3,
+              "difficulty": "Medium",
+              "proctored": true,
+              "audioProctored": true,
+              "maxViolations": 10,
+              "maxAudioViolations": 10,
+              "passkey": "123456",
+              "isPremium": false,
+              "sourceType": "published",
+              "schedule": {
+                "type": "none",
+                "startDate": "",
+                "startTime": "",
+                "endDate": "",
+                "endTime": "",
+                "daysOfWeek": [],
+                "timezone": "Asia/Kolkata"
+              }
+            }
+          }
         }
       }
     },
