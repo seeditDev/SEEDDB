@@ -7,7 +7,7 @@
   },
   "courses": {
     "assessments": {
-      "title": "Coding Assessments",
+      "title": "Assessments",
       "display_order": 10,
       "subcourses": {
         "AS001": {
@@ -96,11 +96,6 @@
           }
         }
       }
-    },
-    "mcqs": {
-      "title": "MCQ Assessments",
-      "display_order": 10,
-      "subcourses": {}
     }
   },
   "access_control": {
