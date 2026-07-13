@@ -100,42 +100,7 @@
     "mcqs": {
       "title": "MCQ Assessments",
       "display_order": 10,
-      "subcourses": {
-        "AS001": {
-          "title": "MCQ DEMO",
-          "description": "",
-          "type": "PLACEMENT",
-          "display_order": 1,
-          "modules": {
-            "AS001_T001": {
-              "id": "AS001_T001",
-              "name": "mcq-demo-1",
-              "description": "",
-              "url": "/mcq/testbank/mcq-demo-1.json",
-              "type": "mcq",
-              "display_order": 1,
-              "duration_minutes": 3,
-              "difficulty": "Medium",
-              "proctored": true,
-              "audioProctored": true,
-              "maxViolations": 10,
-              "maxAudioViolations": 10,
-              "passkey": "",
-              "isPremium": false,
-              "sourceType": "published",
-              "schedule": {
-                "type": "none",
-                "startDate": "",
-                "startTime": "",
-                "endDate": "",
-                "endTime": "",
-                "daysOfWeek": [],
-                "timezone": "Asia/Kolkata"
-              }
-            }
-          }
-        }
-      }
+      "subcourses": {}
     }
   },
   "access_control": {
