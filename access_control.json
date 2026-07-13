@@ -75,6 +75,15 @@
             "batch_end": "2027-05-02"
           }
         }
+      },
+      "SEEDIT": {
+        "2K27": {
+          "CSE": {
+            "allowed_modules": [],
+            "batch_start": "",
+            "batch_end": ""
+          }
+        }
       }
     },
     "assessment_statuses": [
