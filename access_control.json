@@ -49,7 +49,15 @@
     "mcqs": {
       "title": "MCQ Assessments",
       "display_order": 10,
-      "subcourses": {}
+      "subcourses": {
+        "AS001": {
+          "title": "MCQ DEMO",
+          "description": "",
+          "type": "PLACEMENT",
+          "display_order": 1,
+          "modules": {}
+        }
+      }
     }
   },
   "access_control": {
