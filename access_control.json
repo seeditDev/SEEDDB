@@ -9,7 +9,15 @@
     "assessments": {
       "title": "Coding Assessments",
       "display_order": 10,
-      "subcourses": {}
+      "subcourses": {
+        "AS001": {
+          "title": "Demo Assessment",
+          "description": "",
+          "type": "PLACEMENT",
+          "display_order": 1,
+          "modules": {}
+        }
+      }
     },
     "mcqs": {
       "title": "MCQ Assessments",
