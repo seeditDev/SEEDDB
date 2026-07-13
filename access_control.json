@@ -159,12 +159,6 @@
         }
       }
     },
-    "hexaware_prep": {
-      "title": "Hexaware Prep",
-      "display_order": 2,
-      "isAssessment": false,
-      "modules": {}
-    },
     "mcqs": {
       "title": "MCQ Assessments",
       "display_order": 10,
