@@ -1,0 +1,167 @@
+[
+  {
+    "Email": "admin1@seedit.in",
+    "Password": "admin1@SEEDIT",
+    "College": "SEEDIT",
+    "Name": "ADMIN 1",
+    "Role": "Student",
+    "Roll Number": "admin1",
+    "Department": "CSE",
+    "Year": "2K27",
+    "Premium": true
+  },
+  {
+    "Email": "admin2@seedit.in",
+    "Password": "admin2@SEEDIT",
+    "College": "SEEDIT",
+    "Name": "ADMIN 2",
+    "Role": "Student",
+    "Roll Number": "admin2",
+    "Department": "CSE",
+    "Year": "2K27",
+    "Premium": true
+  },
+  {
+    "Email": "admin3@seedit.in",
+    "Password": "admin3@SEEDIT",
+    "College": "SEEDIT",
+    "Name": "ADMIN 3",
+    "Role": "Student",
+    "Roll Number": "admin3",
+    "Department": "CSE",
+    "Year": "2K27",
+    "Premium": true
+  },
+  {
+    "Email": "admin4@seedit.in",
+    "Password": "admin4@SEEDIT",
+    "College": "SEEDIT",
+    "Name": "ADMIN 4",
+    "Role": "Student",
+    "Roll Number": "admin4",
+    "Department": "CSE",
+    "Year": "2K27",
+    "Premium": true
+  },
+  {
+    "Email": "admin5@seedit.in",
+    "Password": "admin5@SEEDIT",
+    "College": "SEEDIT",
+    "Name": "ADMIN 5",
+    "Role": "Student",
+    "Roll Number": "admin5",
+    "Department": "CSE",
+    "Year": "2K27",
+    "Premium": true
+  },
+  {
+    "Email": "admin6@seedit.in",
+    "Password": "admin6@SEEDIT",
+    "College": "SEEDIT",
+    "Name": "ADMIN 6",
+    "Role": "Student",
+    "Roll Number": "admin6",
+    "Department": "CSE",
+    "Year": "2K27",
+    "Premium": true
+  },
+  {
+    "Email": "admin7@seedit.in",
+    "Password": "admin7@SEEDIT",
+    "College": "SEEDIT",
+    "Name": "ADMIN 7",
+    "Role": "Student",
+    "Roll Number": "admin7",
+    "Department": "CSE",
+    "Year": "2K27",
+    "Premium": true
+  },
+  {
+    "Email": "admin8@seedit.in",
+    "Password": "admin8@SEEDIT",
+    "College": "SEEDIT",
+    "Name": "ADMIN 8",
+    "Role": "Student",
+    "Roll Number": "admin8",
+    "Department": "CSE",
+    "Year": "2K27",
+    "Premium": true
+  },
+  {
+    "Email": "admin9@seedit.in",
+    "Password": "admin9@SEEDIT",
+    "College": "SEEDIT",
+    "Name": "ADMIN 9",
+    "Role": "Student",
+    "Roll Number": "admin9",
+    "Department": "CSE",
+    "Year": "2K27",
+    "Premium": true
+  },
+  {
+    "Email": "admin10@seedit.in",
+    "Password": "admin10@SEEDIT",
+    "College": "SEEDIT",
+    "Name": "ADMIN 10",
+    "Role": "Student",
+    "Roll Number": "admin10",
+    "Department": "CSE",
+    "Year": "2K27",
+    "Premium": true
+  },
+  {
+    "Email": "admin11@seedit.in",
+    "Password": "admin11@SEEDIT",
+    "College": "SEEDIT",
+    "Name": "ADMIN 11",
+    "Role": "Student",
+    "Roll Number": "admin11",
+    "Department": "CSE",
+    "Year": "2K27",
+    "Premium": true
+  },
+  {
+    "Email": "admin12@seedit.in",
+    "Password": "admin12@SEEDIT",
+    "College": "SEEDIT",
+    "Name": "ADMIN 12",
+    "Role": "Student",
+    "Roll Number": "admin12",
+    "Department": "CSE",
+    "Year": "2K27",
+    "Premium": true
+  },
+  {
+    "Email": "admin13@seedit.in",
+    "Password": "admin13@SEEDIT",
+    "College": "SEEDIT",
+    "Name": "ADMIN 13",
+    "Role": "Student",
+    "Roll Number": "admin13",
+    "Department": "CSE",
+    "Year": "2K27",
+    "Premium": true
+  },
+  {
+    "Email": "admin14@seedit.in",
+    "Password": "admin14@SEEDIT",
+    "College": "SEEDIT",
+    "Name": "ADMIN 14",
+    "Role": "Student",
+    "Roll Number": "admin14",
+    "Department": "CSE",
+    "Year": "2K27",
+    "Premium": true
+  },
+  {
+    "Email": "admin15@seedit.in",
+    "Password": "admin15@SEEDIT",
+    "College": "SEEDIT",
+    "Name": "ADMIN 15",
+    "Role": "Student",
+    "Roll Number": "admin15",
+    "Department": "CSE",
+    "Year": "2K27",
+    "Premium": true
+  }
+]
