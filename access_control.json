@@ -57,7 +57,7 @@
                   "forwardOnly": true
                 }
               ],
-              "type": "coding",
+              "type": "MSA",
               "display_order": 1,
               "duration_minutes": 4,
               "difficulty": "Medium",
@@ -134,7 +134,7 @@
                   "forwardOnly": false
                 }
               ],
-              "type": "coding",
+              "type": "MSA",
               "display_order": 3,
               "duration_minutes": 3,
               "difficulty": "Medium",
