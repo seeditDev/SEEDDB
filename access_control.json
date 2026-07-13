@@ -146,7 +146,7 @@
             "allowed_modules": [
               "AS001_T001",
               "AS001_T002",
-              "AS001_T003"
+              "AS001_T001"
             ],
             "batch_start": "2026-07-02",
             "batch_end": "2027-05-02"
@@ -155,7 +155,7 @@
             "allowed_modules": [
               "AS001_T001",
               "AS001_T002",
-              "AS001_T003"
+              "AS001_T001"
             ],
             "batch_start": "2026-07-02",
             "batch_end": "2027-05-02"
@@ -164,7 +164,7 @@
             "allowed_modules": [
               "AS001_T001",
               "AS001_T002",
-              "AS001_T003"
+              "AS001_T001"
             ],
             "batch_start": "2026-07-02",
             "batch_end": "2027-05-02"
@@ -173,7 +173,7 @@
             "allowed_modules": [
               "AS001_T001",
               "AS001_T002",
-              "AS001_T003"
+              "AS001_T001"
             ],
             "batch_start": "2026-07-02",
             "batch_end": "2027-05-02"
@@ -182,7 +182,7 @@
             "allowed_modules": [
               "AS001_T001",
               "AS001_T002",
-              "AS001_T003"
+              "AS001_T001"
             ],
             "batch_start": "2026-07-02",
             "batch_end": "2027-05-02"
