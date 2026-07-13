@@ -80,8 +80,8 @@
         "2K27": {
           "CSE": {
             "allowed_modules": [],
-            "batch_start": "",
-            "batch_end": ""
+            "batch_start": "2026-07-12",
+            "batch_end": "2030-12-13"
           }
         }
       }
