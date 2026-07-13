@@ -41,6 +41,57 @@
                 "daysOfWeek": [],
                 "timezone": "Asia/Kolkata"
               }
+            },
+            "AS001_T002": {
+              "id": "AS001_T002",
+              "name": "Company Specific Assessment Demo",
+              "description": "",
+              "url": "/mcq/testbank/mcq-demo-1.json",
+              "isMultiSection": true,
+              "sections": [
+                {
+                  "sectionId": "AS001_T002_S1",
+                  "name": "MCQ Demo 1",
+                  "type": "mcq",
+                  "url": "/mcq/testbank/mcq-demo-1.json",
+                  "duration_minutes": 3,
+                  "questionTimer": 0,
+                  "questionTimerList": "",
+                  "timerRestrictedSubmit": false,
+                  "forwardOnly": false
+                },
+                {
+                  "sectionId": "AS001_T002_S2",
+                  "name": "Coding Demo 2",
+                  "type": "coding",
+                  "url": "/coding/testbank/demo-coding-1.json",
+                  "duration_minutes": 3,
+                  "questionTimer": 0,
+                  "questionTimerList": "",
+                  "timerRestrictedSubmit": false,
+                  "forwardOnly": false
+                }
+              ],
+              "type": "MSA",
+              "display_order": 2,
+              "duration_minutes": 6,
+              "difficulty": "Medium",
+              "proctored": true,
+              "audioProctored": true,
+              "maxViolations": 10,
+              "maxAudioViolations": 10,
+              "passkey": "123456",
+              "isPremium": false,
+              "sourceType": "published",
+              "schedule": {
+                "type": "none",
+                "startDate": "",
+                "startTime": "",
+                "endDate": "",
+                "endTime": "",
+                "daysOfWeek": [],
+                "timezone": "Asia/Kolkata"
+              }
             }
           }
         }
