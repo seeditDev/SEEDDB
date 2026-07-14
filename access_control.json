@@ -152,7 +152,10 @@
       "SEEDIT": {
         "2K27": {
           "CSE": {
-            "allowed_modules": [],
+            "allowed_modules": [
+              "AS001_T001",
+              "AS001_T002"
+            ],
             "batch_start": "2026-07-12",
             "batch_end": "2030-12-13"
           }
