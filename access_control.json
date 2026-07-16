@@ -100,7 +100,70 @@
           "description": "",
           "type": "PLACEMENT",
           "display_order": 2,
-          "modules": {}
+          "modules": {
+            "AS002_T001": {
+              "id": "AS002_T001",
+              "name": "Day-1 Assessment",
+              "description": "",
+              "url": "/mcq/testbank/aptitude-day-1.json",
+              "isMultiSection": true,
+              "sections": [
+                {
+                  "sectionId": "AS002_T001_S1",
+                  "name": "Aptitude",
+                  "type": "mcq",
+                  "url": "/mcq/testbank/aptitude-day-1.json",
+                  "duration_minutes": 20,
+                  "questionTimer": 0,
+                  "questionTimerList": "",
+                  "timerRestrictedSubmit": false,
+                  "forwardOnly": false
+                },
+                {
+                  "sectionId": "AS002_T001_S2",
+                  "name": "Technical MCQ",
+                  "type": "mcq",
+                  "url": "/mcq/testbank/technical-day-1.json",
+                  "duration_minutes": 10,
+                  "questionTimer": 0,
+                  "questionTimerList": "",
+                  "timerRestrictedSubmit": false,
+                  "forwardOnly": false
+                },
+                {
+                  "sectionId": "AS002_T001_S3",
+                  "name": "Coding",
+                  "type": "coding",
+                  "url": "/coding/testbank/coding-day-1.json",
+                  "duration_minutes": 30,
+                  "questionTimer": 0,
+                  "questionTimerList": "",
+                  "timerRestrictedSubmit": false,
+                  "forwardOnly": false
+                }
+              ],
+              "type": "MSA",
+              "display_order": 1,
+              "duration_minutes": 60,
+              "difficulty": "Medium",
+              "proctored": true,
+              "audioProctored": true,
+              "maxViolations": 10,
+              "maxAudioViolations": 15,
+              "passkey": "123456",
+              "isPremium": false,
+              "sourceType": "published",
+              "schedule": {
+                "type": "none",
+                "startDate": "",
+                "startTime": "",
+                "endDate": "",
+                "endTime": "",
+                "daysOfWeek": [],
+                "timezone": "Asia/Kolkata"
+              }
+            }
+          }
         }
       }
     }
