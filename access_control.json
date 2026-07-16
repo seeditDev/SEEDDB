@@ -94,6 +94,13 @@
               }
             }
           }
+        },
+        "AS002": {
+          "title": "Placement Readiness Seties",
+          "description": "",
+          "type": "PLACEMENT",
+          "display_order": 2,
+          "modules": {}
         }
       }
     }
