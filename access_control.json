@@ -79,7 +79,7 @@
               "proctored": true,
               "audioProctored": true,
               "maxViolations": 10,
-              "maxAudioViolations": 6,
+              "maxAudioViolations": 30,
               "passkey": "123456",
               "isPremium": false,
               "sourceType": "published",
