@@ -148,7 +148,7 @@
               "difficulty": "Medium",
               "proctored": true,
               "audioProctored": false,
-              "maxViolations": 10,
+              "maxViolations": 30,
               "maxAudioViolations": 3,
               "passkey": "123456",
               "isPremium": false,
