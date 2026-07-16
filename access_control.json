@@ -174,45 +174,35 @@
         "2K27": {
           "ECE": {
             "allowed_modules": [
-              "AS001_T001",
-              "AS001_T002",
-              "AS001_T001"
+              "AS002_T001"
             ],
             "batch_start": "2026-07-02",
             "batch_end": "2027-05-02"
           },
           "CSE": {
             "allowed_modules": [
-              "AS001_T001",
-              "AS001_T002",
-              "AS001_T001"
+              "AS002_T001"
             ],
             "batch_start": "2026-07-02",
             "batch_end": "2027-05-02"
           },
           "IT": {
             "allowed_modules": [
-              "AS001_T001",
-              "AS001_T002",
-              "AS001_T001"
+              "AS002_T001"
             ],
             "batch_start": "2026-07-02",
             "batch_end": "2027-05-02"
           },
           "AIDS": {
             "allowed_modules": [
-              "AS001_T001",
-              "AS001_T002",
-              "AS001_T001"
+              "AS002_T001"
             ],
             "batch_start": "2026-07-02",
             "batch_end": "2027-05-02"
           },
           "CSBS": {
             "allowed_modules": [
-              "AS001_T001",
-              "AS001_T002",
-              "AS001_T001"
+              "AS002_T001"
             ],
             "batch_start": "2026-07-02",
             "batch_end": "2027-05-02"
