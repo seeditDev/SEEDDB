@@ -214,7 +214,8 @@
           "CSE": {
             "allowed_modules": [
               "AS001_T001",
-              "AS001_T002"
+              "AS001_T002",
+              "AS002_T001"
             ],
             "batch_start": "2026-07-12",
             "batch_end": "2030-12-13"
