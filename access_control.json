@@ -175,7 +175,7 @@
               "id": "AS003_T001",
               "name": "Spoken English Assessment",
               "description": "Evaluate candidate spoken English and communication skills for placements.",
-              "url": "/seed-contents/spoken_english/testbank/spoken-english-demo-1.json",
+              "url": "/spoken_english/testbank/spoken-english-demo-1.json",
               "type": "spoken_english",
               "display_order": 1,
               "duration_minutes": 20,
