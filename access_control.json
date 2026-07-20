@@ -164,6 +164,28 @@
               }
             }
           }
+        },
+        "AS003": {
+          "title": "Spoken English & Communication",
+          "description": "AI Spoken English Assessment evaluating Pronunciation, Fluency, Grammar, Vocabulary, Pace, Confidence, and CEFR level.",
+          "type": "SPOKEN_ENGLISH",
+          "display_order": 3,
+          "modules": {
+            "AS003_T001": {
+              "id": "AS003_T001",
+              "name": "Spoken English Assessment",
+              "description": "Evaluate candidate spoken English and communication skills for placements.",
+              "url": "/spoken_english/testbank/spoken-english-demo-1.json",
+              "type": "spoken_english",
+              "display_order": 1,
+              "duration_minutes": 20,
+              "difficulty": "Medium",
+              "proctored": false,
+              "audioProctored": false,
+              "maxViolations": 10,
+              "maxAudioViolations": 30
+            }
+          }
         }
       }
     }
@@ -215,7 +237,8 @@
             "allowed_modules": [
               "AS001_T001",
               "AS001_T002",
-              "AS002_T001"
+              "AS002_T001",
+              "AS003_T001"
             ],
             "batch_start": "2026-07-12",
             "batch_end": "2030-12-13"
